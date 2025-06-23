@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f10d35bbd9b16fa4ab65c0e68a03e266, type: 3}
+  m_Name: Venus
+  m_EditorClassIdentifier: 
+  types: 1
+  name: Venus
+  godQuizzes:
+  - question: "Which planet shows a runaway greenhouse effect with surface temps
+      \u2248 465 \xB0C? "
+    _answers:
+    - Mars
+    - 'Venus '
+    - Earth
+    - Mercury
+    correctReply: 1
+  - question: "Venus\u2019s atmosphere is composed mainly of: "
+    _answers:
+    - Nitrogen
+    - Oxygen
+    - 'Carbon dioxide '
+    - Methane
+    correctReply: 2
+  - question: "What is unusual about Venus\u2019s rotation? "
+    _answers:
+    - 'Extremely fast rotation '
+    - Retrograde rotation
+    - No rotation at all
+    - Tidally locked
+    correctReply: 1
+  - question: "Which mission mapped Venus\u2019s surface using radar in the 1990s?"
+    _answers:
+    - Voyager 2
+    - Magellan
+    - 'Galileo '
+    - Cassini
+    correctReply: 1
+  - question: 'Venus is often visible from Earth as the:'
+    _answers:
+    - Red Planet
+    - Blue Planet
+    - Morning/Evening Star
+    - Ringed Planet
+    correctReply: 2
+  - question: 'The thick clouds on Venus consist mainly of:'
+    _answers:
+    - Water vapor
+    - Sulfuric acid
+    - Methane
+    - Ammonia
+    correctReply: 1
+  - question: "Surface pressure on Venus is roughly how many times Earth\u2019s?"
+    _answers:
+    - About the same
+    - "10 \xD7"
+    - "92 \xD7"
+    - "200 \xD7"
+    correctReply: 2
+  - question: Which geological structure is common on Venus and linked to mantle
+      plumes?
+    _answers:
+    - Coronae
+    - Ice volcanoes
+    - Subduction trenches
+    - Sand seas
+    correctReply: 0
+  - question: The proposed balloon habitat layer on Venus sits roughly how high?
+    _answers:
+    - "0\u20135 km"
+    - "20\u201330 km"
+    - "50\u201360 km"
+    - 100 km
+    correctReply: 2
+  - question: "Which planned NASA mission will drop a probe through Venus\u2019s
+      atmosphere?"
+    _answers:
+    - Juno
+    - DAVINCI
+    - New Horizons II
+    - Europa Clipper
+    correctReply: 1

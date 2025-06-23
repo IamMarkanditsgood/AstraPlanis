@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f10d35bbd9b16fa4ab65c0e68a03e266, type: 3}
+  m_Name: Saturn
+  m_EditorClassIdentifier: 
+  types: 5
+  name: Saturn
+  godQuizzes:
+  - question: Which planet is renowned for its prominent ring system?
+    _answers:
+    - Jupiter
+    - 'Saturn '
+    - Uranus
+    - Neptune
+    correctReply: 1
+  - question: "Saturn\u2019s atmosphere is composed primarily of:"
+    _answers:
+    - Carbon and oxygen
+    - Hydrogen and helium
+    - Nitrogen and methane
+    - 'Iron and silicon '
+    correctReply: 1
+  - question: "The persistent hexagon storm sits at Saturn\u2019s:"
+    _answers:
+    - Equator
+    - South pole
+    - North pole
+    - Mid-latitudes
+    correctReply: 2
+  - question: 'Which moon has geysers ejecting water-ice plumes? '
+    _answers:
+    - Titan
+    - Enceladus
+    - Iapetus
+    - Rhea
+    correctReply: 1
+  - question: "What is unusual about Saturn\u2019s average density?"
+    _answers:
+    - Denser than lead
+    - Equals water, so it could float
+    - Less than hydrogen gas
+    - "Same as Earth\u2019s"
+    correctReply: 1
+  - question: 'The Cassini mission ended by:'
+    _answers:
+    - Landing on Titan
+    - Fly-by of Jupiter
+    - "Diving into Saturn\u2019s atmosphere"
+    - Crashing into Enceladus
+    correctReply: 2
+  - question: "Titan\u2019s lakes are filled with:"
+    _answers:
+    - Liquid water
+    - Molten sulfur
+    - Liquid methane and ethane
+    - Carbon-dioxide ice
+    correctReply: 2
+  - question: "Saturn\u2019s rings are thought to be made mostly of:"
+    _answers:
+    - Silicate rocks
+    - Metallic dust
+    - Water-ice particles
+    - Sulfur deposits
+    correctReply: 2
+  - question: "Saturn\u2019s fast rotation causes the planet to be:"
+    _answers:
+    - Perfectly round
+    - Highly oblate (flattened)
+    - Slower than Earth
+    - Tidally locked to the Sun
+    correctReply: 1
+  - question: "Helium \u201Crain\u201D inside Saturn mainly explains:"
+    _answers:
+    - Ring colours
+    - Extra internal heat emission
+    - Moon formation
+    - Magnetic-field strength
+    correctReply: 1

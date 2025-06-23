@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f10d35bbd9b16fa4ab65c0e68a03e266, type: 3}
+  m_Name: Mercury
+  m_EditorClassIdentifier: 
+  types: 0
+  name: Mercury
+  godQuizzes:
+  - question: Which planet is the closest to the Sun?
+    _answers:
+    - Venus
+    - Mars
+    - 'Mercury '
+    - Earth
+    correctReply: 2
+  - question: How many Earth days make up a Mercurian year?
+    _answers:
+    - '365 days '
+    - '225 days '
+    - 88 days
+    - '50 days '
+    correctReply: 2
+  - question: "What is Mercury\u2019s largest impact basin called? "
+    _answers:
+    - 'Hellas Planitia '
+    - 'Great Red Spot '
+    - 'Caloris Basin '
+    - Valles Marineris
+    correctReply: 2
+  - question: 'Peak daytime temperatures on Mercury approach: '
+    _answers:
+    - "100\xB0C"
+    - "250\xB0C"
+    - "430\xB0C"
+    - "600\xB0C"
+    correctReply: 2
+  - question: 'Which mission has not flown past or orbited Mercury? '
+    _answers:
+    - MESSENGER
+    - 'Mariner 10 '
+    - Voyager 2
+    - 'All of the above have been sent '
+    correctReply: 2
+  - question: 'A full sunrise-to-sunrise day on Mercury lasts about: '
+    _answers:
+    - '24 hours '
+    - '88 Earth days '
+    - '176 Earth days '
+    - '365 Earth days '
+    correctReply: 2
+  - question: "Mercury\u2019s dramatic temperature swings are mainly caused by its: "
+    _answers:
+    - 'Thick atmosphere '
+    - 'Slow rotation '
+    - 'Extremely thin exosphere '
+    - 'Great distance from the Sun '
+    correctReply: 2
+  - question: 'In Roman mythology, Mercury is the god of: '
+    _answers:
+    - War
+    - Agriculture
+    - 'Messages and travel '
+    - The sea
+    correctReply: 2
+  - question: "Mercury\u2019s enormous metallic core is unusual because it:"
+    _answers:
+    - "Comprises most of the planet\u2019s volume "
+    - 'Is made mostly of ice '
+    - "Is smaller than Earth\u2019s core "
+    - 'Contains pure gold '
+    correctReply: 0
+  - question: "Mercury\u2019s \u201Catmosphere\u201D is best described as: "
+    _answers:
+    - Dense and cloudy
+    - Nitrogen-rich
+    - Extremely tenuous and unstable
+    - Oxygen-dominated
+    correctReply: 2

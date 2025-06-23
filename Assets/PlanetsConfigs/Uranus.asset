@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f10d35bbd9b16fa4ab65c0e68a03e266, type: 3}
+  m_Name: Uranus
+  m_EditorClassIdentifier: 
+  types: 6
+  name: Uranus
+  godQuizzes:
+  - question: "Which planet rolls on its side due to a ~98\xB0 tilt?"
+    _answers:
+    - Saturn
+    - Uranus
+    - Neptune
+    - Jupiter
+    correctReply: 1
+  - question: "Uranus\u2019s blue-green hue comes mainly from:"
+    _answers:
+    - 'Water vapor '
+    - Ammonia
+    - Methane in the atmosphere
+    - 'Iron oxide '
+    correctReply: 2
+  - question: 'Uranus is classified as an:'
+    _answers:
+    - Gas giant with thick clouds
+    - 'Ice giant with an icy mantle '
+    - Rocky terrestrial planet
+    - Dwarf planet
+    correctReply: 1
+  - question: 'Voyager 2 flew past Uranus in:'
+    _answers:
+    - 1979
+    - 1986
+    - 1995
+    - 2004
+    correctReply: 1
+  - question: "Uranus\u2019s ring particles are: "
+    _answers:
+    - Bright and icy
+    - Dark and micron-sized
+    - Pure iron filings
+    - Made of basalt rock only
+    correctReply: 1
+  - question: 'Each Uranus pole experiences continuous daylight for roughly:'
+    _answers:
+    - 1 year
+    - 5 years
+    - 21 years
+    - 42 years
+    correctReply: 3
+  - question: 'The moon with 20-km-high cliffs is:'
+    _answers:
+    - Ariel
+    - Miranda
+    - Titania
+    - Oberon
+    correctReply: 1
+  - question: "Uranus\u2019s magnetic field is unusual because it is:"
+    _answers:
+    - Perfectly centred
+    - Offset and highly tilted
+    - Non-existent
+    - "Stronger than Jupiter\u2019s"
+    correctReply: 1
+  - question: 'Proposed UOP mission would carry:'
+    _answers:
+    - A lander to Miranda only
+    - An orbiter and atmospheric probe
+    - "A rover for Uranus\u2019s surface"
+    - 'Space elevator prototypes '
+    correctReply: 1
+  - question: 'Voyager 2 found wind speeds on Uranus up to:'
+    _answers:
+    - "100 km h-\xB9"
+    - "300 km h-\xB9"
+    - "600 km h-\xB9"
+    - "900 km h-\xB9"
+    correctReply: 3
