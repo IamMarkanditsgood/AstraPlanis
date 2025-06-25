@@ -15,74 +15,74 @@ MonoBehaviour:
   types: 4
   name: Jupiter
   godQuizzes:
-  - question: Which planet is known as the largest in our Solar System?
+  - question: What is the largest planet in the Solar System?
     _answers:
     - Saturn
-    - 'Jupiter '
+    - Earth
+    - Jupiter
     - Uranus
-    - Neptune
-    correctReply: 1
-  - question: "Jupiter\u2019s atmosphere is primarily made up of:"
+    correctReply: 2
+  - question: What is the Great Red Spot?
     _answers:
-    - 'Carbon dioxide '
-    - Hydrogen and helium
-    - 'Oxygen and nitrogen '
-    - Methane
-    correctReply: 1
-  - question: 'What is the Great Red Spot on Jupiter? '
-    _answers:
-    - 'A volcano '
+    - A volcanic caldera
+    - A frozen lake
     - A massive storm
-    - A moon
-    - A crater
-    correctReply: 1
-  - question: How many Galilean moons does Jupiter have?
+    - A gas vent
+    correctReply: 3
+  - question: How long is a day on Jupiter?
     _answers:
-    - 2
-    - '4 '
-    - 6
-    - 8
-    correctReply: 1
-  - question: "Jupiter\u2019s rapid rotation causes the planet to be: "
+    - 10 Earth hours
+    - 24 Earth hours
+    - 48 Earth hours
+    - 12 Earth days
+    correctReply: 0
+  - question: What are the Galilean moons?
     _answers:
-    - 'Perfectly spherical '
-    - 'Highly oblate (flattened at the poles) '
-    - 'Extremely slow '
-    - 'Ringed by ice '
+    - Moons of Mars
+    - Moons of Jupiter discovered by Galileo
+    - Saturn's ring particles
+    - Kuiper Belt objects
     correctReply: 1
-  - question: "Which current mission is studying Jupiter\u2019s interior and atmosphere?"
+  - question: Which Galilean moon is most volcanically active?
+    _answers:
+    - Callisto
+    - Io
+    - Europa
+    - Ganymede
+    correctReply: 1
+  - question: 'Which moon is a strong candidate for hosting alien life due to a subsurface
+      ocean? '
+    _answers:
+    - Titan
+    - Deimos
+    - Europa
+    - Phobos
+    correctReply: 2
+  - question: "What makes up most of Jupiter\u2019s composition?"
+    _answers:
+    - Water and ammonia
+    - Ice and dust
+    - Hydrogen and helium
+    - Carbon dioxide and nitrogen
+    correctReply: 2
+  - question: 'What mission is currently studying Jupiter? '
     _answers:
     - Cassini
-    - 'Juno '
-    - Voyager
-    - 'New Horizons '
-    correctReply: 1
-  - question: "Jupiter\u2019s strong gravitational field helps protect the inner
-      Solar System by:"
+    - Perseverance
+    - Juno
+    - Artemis
+    correctReply: 2
+  - question: Why does Jupiter have such a strong magnetic field?
     _answers:
-    - 'Creating new asteroids '
-    - Diverting comets and asteroids
-    - 'Increasing solar radiation '
-    - 'Absorbing all cosmic dust '
-    correctReply: 1
-  - question: Which Galilean moon is famous for intense volcanic activity?
+    - It rotates slowly
+    - 'It has large metal deposits '
+    - Its massive size and metallic hydrogen interior
+    - It has no magnetic field
+    correctReply: 2
+  - question: How many known moons does Jupiter have (as of 2025)?
     _answers:
-    - Europa
-    - Io
-    - Ganymede
-    - Callisto
-    correctReply: 1
-  - question: "Jupiter\u2019s colorful cloud bands arise primarily from:"
-    _answers:
-    - Solid rock formations
-    - Chemical composition + temperature contrasts
-    - Frozen water crystals only
-    - Reflected sunlight from its moons
-    correctReply: 1
-  - question: "Studying Jupiter\u2019s formation helps scientists understand: "
-    _answers:
-    - "Only Earth\u2019s weather"
-    - The structure and evolution of the entire Solar System
-    - How stars are born
-    - Composition of distant galaxies
-    correctReply: 1
+    - 4
+    - 12
+    - 53
+    - 95
+    correctReply: 3

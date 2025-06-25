@@ -15,73 +15,73 @@ MonoBehaviour:
   types: 5
   name: Saturn
   godQuizzes:
-  - question: Which planet is renowned for its prominent ring system?
+  - question: 'What makes Saturn easily recognizable in the night sky? '
     _answers:
-    - Jupiter
-    - 'Saturn '
-    - Uranus
-    - Neptune
-    correctReply: 1
-  - question: "Saturn\u2019s atmosphere is composed primarily of:"
+    - Its color
+    - Its distance
+    - Its large moon
+    - Its ring system
+    correctReply: 3
+  - question: What is Saturn mostly made of?
     _answers:
-    - Carbon and oxygen
+    - Water and rock
     - Hydrogen and helium
-    - Nitrogen and methane
-    - 'Iron and silicon '
+    - Iron and methane
+    - Dust and carbon dioxide
     correctReply: 1
-  - question: "The persistent hexagon storm sits at Saturn\u2019s:"
+  - question: "What is the name of Saturn\u2019s largest moon?"
     _answers:
-    - Equator
-    - South pole
-    - North pole
-    - Mid-latitudes
+    - Europa
+    - Io
+    - Titan
+    - Ganymede
     correctReply: 2
-  - question: 'Which moon has geysers ejecting water-ice plumes? '
+  - question: Which Saturn moon is known for spraying water plumes from its surface?
+    _answers:
+    - Enceladus
+    - Rhea
+    - Iapetus
+    - Dione
+    correctReply: 0
+  - question: How many confirmed moons does Saturn have as of 2025?
+    _answers:
+    - 4
+    - 13
+    - 83
+    - 146
+    correctReply: 3
+  - question: "How wide is Saturn\u2019s ring system?"
+    _answers:
+    - '10 000 km '
+    - 100 000 km
+    - 282 000 km
+    - 500 000 km
+    correctReply: 2
+  - question: What mission provided the most information about Saturn?
+    _answers:
+    - Voyager 1
+    - Pioneer 11
+    - "Cassini\u2013Huygens"
+    - New Horizons
+    correctReply: 2
+  - question: "Which of Saturn\u2019s moons has a thick atmosphere and methane lakes?"
     _answers:
     - Titan
-    - Enceladus
-    - Iapetus
-    - Rhea
-    correctReply: 1
-  - question: "What is unusual about Saturn\u2019s average density?"
+    - Callisto
+    - Phobos
+    - Mimas
+    correctReply: 0
+  - question: "What is unusual about Saturn\u2019s density?"
     _answers:
-    - Denser than lead
-    - Equals water, so it could float
-    - Less than hydrogen gas
-    - "Same as Earth\u2019s"
-    correctReply: 1
-  - question: 'The Cassini mission ended by:'
-    _answers:
-    - Landing on Titan
-    - Fly-by of Jupiter
-    - "Diving into Saturn\u2019s atmosphere"
-    - Crashing into Enceladus
+    - "It\u2019s denser than Earth"
+    - "It\u2019s the densest gas giant"
+    - "It\u2019s less dense than water"
+    - It has no core
     correctReply: 2
-  - question: "Titan\u2019s lakes are filled with:"
+  - question: "What unique atmospheric shape exists at Saturn\u2019s north pole?"
     _answers:
-    - Liquid water
-    - Molten sulfur
-    - Liquid methane and ethane
-    - Carbon-dioxide ice
-    correctReply: 2
-  - question: "Saturn\u2019s rings are thought to be made mostly of:"
-    _answers:
-    - Silicate rocks
-    - Metallic dust
-    - Water-ice particles
-    - Sulfur deposits
-    correctReply: 2
-  - question: "Saturn\u2019s fast rotation causes the planet to be:"
-    _answers:
-    - Perfectly round
-    - Highly oblate (flattened)
-    - Slower than Earth
-    - Tidally locked to the Sun
-    correctReply: 1
-  - question: "Helium \u201Crain\u201D inside Saturn mainly explains:"
-    _answers:
-    - Ring colours
-    - Extra internal heat emission
-    - Moon formation
-    - Magnetic-field strength
+    - Spiral storm
+    - Hexagonal jet stream
+    - Giant volcano
+    - Hurricane eye
     correctReply: 1

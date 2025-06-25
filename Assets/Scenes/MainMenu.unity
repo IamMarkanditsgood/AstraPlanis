@@ -279,7 +279,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0.39782715}
-  m_SizeDelta: {x: 0, y: 5264.73}
+  m_SizeDelta: {x: 0, y: 4364.96}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &16991134
 MonoBehaviour:
@@ -353,8 +353,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 396895311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.23898569, y: 0.78835416}
-  m_AnchorMax: {x: 0.76128083, y: 0.933578}
+  m_AnchorMin: {x: 0.061385315, y: 0.75384635}
+  m_AnchorMax: {x: 0.9390385, y: 0.8783017}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -378,7 +378,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 126adea7efc9a7b46a2e0d2af34d6a2e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d434f1802c5e5634b9826bed16e3528f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -428,8 +428,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 666222097}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.10440492, y: 0.68319136}
-  m_AnchorMax: {x: 0.8884873, y: 0.7821419}
+  m_AnchorMin: {x: 0.28965136, y: 0.7289233}
+  m_AnchorMax: {x: 0.71422637, y: 0.75092256}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d704aba7e55cd244cb3659b65fa2481d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2cd9e62f4b0bba546873849951563e65, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -504,10 +504,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 502689078}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.13143647, y: 0.094390735}
-  m_AnchorMax: {x: 0.8685636, y: 0.16831273}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.0786031, y: 0.034253836}
+  m_AnchorMax: {x: 0.921397, y: 0.22844963}
+  m_AnchoredPosition: {x: 0, y: -0.00012207031}
+  m_SizeDelta: {x: -0.0000076293945, y: 0.00006866455}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &38079511
 MonoBehaviour:
@@ -539,7 +539,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: a6a702c5708b0664f9076750a6224ff6, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: b6683871f1a5db2488edfddf0c269871, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 896a0009e51b707499333e8a1889b28b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0db5430fbf6ca5041bc66ab7cf59cafa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -814,9 +814,9 @@ RectTransform:
   m_Father: {fileID: 666222097}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: -0.0007347556, y: 0.000000032391988}
-  m_AnchorMax: {x: 0.99926525, y: 0.12018934}
+  m_AnchorMax: {x: 0.99926525, y: 0.11384352}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -0.00002670288}
+  m_SizeDelta: {x: 0, y: 0.00001335144}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &48857188
 MonoBehaviour:
@@ -838,7 +838,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 323dd4d6eace87c4289a0b4a191875a4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 998e9e908472de242a91de5d3bc4a393, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -913,130 +913,119 @@ MonoBehaviour:
   factsData:
   - planets: 0
     name: Mercury
-    image: {fileID: 21300000, guid: b1f8e2d749e20a04388ea44b6e672778, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - 'Mini metal giant: highest core-to-radius ratio of any major planet.'
-    - '88-day year, 176-day solar day: the Sun lingers in Mercurian skies for months.'
-    - "Temperature delta: > 600 \xB0C swing between dawn and noon."
-    - 'Caloris Basin: 1 550 km crater ringed by 3 km-high mountains.'
-    - 'Polar ice: billions of tonnes preserved in eternal shadow.'
-    - 'Planetary shrinkage: crust folded as radius contracted by ~7 km.'
-    - 'Low albedo: reflects just 7 % of sunlight, yet no atmosphere to colour the
-      sky.'
-    - 'Elemental oddities: sulfur and graphite hint at low-oxygen formation.'
-    - "Magnetosphere: miniature but dynamic, spawning magnetic \u201Ctornadoes.\u201D"
-    - 'BepiColombo arrival 2026: twin orbiters will resolve internal structure and
-      exospheric chemistry.'
+    - "Closest planet to the Sun \u2014 average distance: 58 million km."
+    - "Rotates three times for every two orbits \u2014 3:2 spin\u2013orbit resonance."
+    - Has the largest core-to-planet size ratio of any planet.
+    - Hosts water ice in permanently shadowed polar craters.
+    - "Experiences temperature swings of over 600 \xB0C."
+    - "Magnetic field is 1 % as strong as Earth\u2019s but internally generated."
+    - "No true atmosphere \u2014 only a surface-bound exosphere."
+    - Day (sunrise to sunrise) lasts 176 Earth days.
+    - BepiColombo will become the second orbiter in 2025.
+    - Hollows and crustal features suggest unusual volatile loss processes.
   - planets: 1
     name: Venus
-    image: {fileID: 21300000, guid: bc9e5f6ee321eb646adddb6103e0f0f4, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - "Surface pressure \u2248 92 bar\u2014equivalent to 900 m underwater on Earth."
-    - "Mean surface temp ~ 465 \xB0C, hottest of any planet."
-    - Rotates backwards; a Venusian sidereal day = 243 Earth days.
-    - Solar day (sunrise-to-sunrise) = 117 Earth days.
-    - "Clouds made of 75\u201398 % sulfuric acid; lightning detected."
-    - Over 1 000 mapped volcanoes; possible present-day eruptions.
-    - Maxwell Montes (11 km) exceeds Everest in relief.
-    - 'Atmosphere super-rotates: cloud tops circle planet in ~ 4 Earth days.'
-    - "Radar reveals \u201Cpancake domes\u201D and coronae\u2014unique volcanic features"
-    - "Upcoming missions (VERITAS, DAVINCI, EnVision) launch 2028\u20132033."
+    - "Hottest planet in the Solar System \u2014 over 460 \xB0C average temperature."
+    - "Surface pressure is 92 times Earth\u2019s \u2014 like being 1 km underwater."
+    - Atmosphere is 96.5 % carbon dioxide, trapping heat via runaway greenhouse effect.
+    - "Rotates backwards (retrograde) and slowly \u2014 day longer than a year."
+    - Covered by vast volcanic plains and unique tectonic features.
+    - No moon and no global magnetic field.
+    - Clouds contain sulfuric acid, reflecting sunlight and obscuring the surface.
+    - "Explored by Soviet Venera landers and NASA\u2019s Magellan orbiter."
+    - Possible hints of phosphine in the clouds raised questions about life.
+    - 'Target of upcoming missions: VERITAS, DAVINCI, and EnVision.'
   - planets: 2
     name: Earth
-    image: {fileID: 21300000, guid: 79056f25aba10a24995ed930a465c482, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - Only confirmed life-bearing planet, with biota dating back > 3.5 billion years.
-    - '71 % of surface covered by liquid water, unique among inner planets. '
-    - "Atmosphere: 78 % N\u2082, 21 % O\u2082, traces of CO\u2082 (now ~420 ppm)."
-    - Protective magnetosphere deflects solar wind and cosmic rays.
-    - Plate tectonics recycles crust and regulates long-term climate.
-    - "Orbit lies in the Sun\u2019s \u201CGoldilocks\u201D zone, allowing stable
-      liquid water."
-    - "Moon stabilises axial tilt, produces 1\u20132 m average tidal range."
-    - Average albedo 0.30; clouds reflect ~20 % of incoming sunlight.
-    - "Anthropogenic CO\u2082 increase of ~50 % since 1750 drives modern warming."
-    - 'Satellite constellations monitor Earth system with < 1 km spatial, < 1 hour
-      temporal resolution. '
+    - Only planet with known life and liquid surface water.
+    - 'Atmosphere: 78 % nitrogen, 21 % oxygen, 1 % other gases.'
+    - Plate tectonics drive geological activity and recycling.
+    - "Earth\u2019s magnetic field protects life from cosmic radiation."
+    - "The Moon stabilizes Earth\u2019s axial tilt and seasons."
+    - "Water covers 71 % of the surface \u2014 critical for life"
+    - "Greenhouse gases naturally regulate temperature \u2014 but human influence
+      is rising."
+    - Earth formed ~4.54 billion years ago.
+    - Ozone layer blocks harmful UV radiation.
+    - Earth is the launch point for all current space missions.
   - planets: 3
     name: Mars
-    image: {fileID: 21300000, guid: 0850c801bc71664428c9d4cb3d0aad95, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - Nicknamed the Red Planet due to iron-oxide dust coating its surface.
-    - Olympus Mons (22 km) is the tallest volcano in the Solar System.
-    - "Valles Marineris spans 4 000 km\u2014wider than the continental U.S."
-    - "Mars\u2019s day (sol) is 24 h 39 m\u2014only 40 m longer than Earth\u2019s."
-    - '  Seasonal planet-wide dust storms can obscure the surface for weeks. '
-    - "  Water-ice glaciers and polar caps hold an estimated 3 million km\xB3 of
-      H\u2082O. "
-    - "Atmospheric pressure averages 0.6 % of Earth\u2019s, too low for stable liquid
-      water."
-    - Crustal magnetic anomalies reveal an ancient dynamo that ceased > 4 Ga.
-    - '  Methane plumes measured in ppb levels vary with season and location. '
-    - "Sample Return mission aims to bring \u2265 30 sealed cores to Earth by ~2033."
+    - Known as the Red Planet due to iron oxide on its surface.
+    - 'Has the largest volcano (Olympus Mons) and largest canyon (Valles Marineris)
+      in the Solar System. '
+    - "Two moons: Phobos and Deimos \u2014 likely captured asteroids. "
+    - 'Thin atmosphere of mostly carbon dioxide. '
+    - "Average temperature: \u201363 \xB0C, with wide daily variation."
+    - Historical evidence of liquid water and river systems.
+    - Explored by many robotic missions, including rovers and orbiters.
+    - Perseverance rover is actively exploring and caching samples.
+    - 'Subject of future human colonization plans. '
+    - Home to dust storms that can cover the entire planet.
   - planets: 4
     name: Jupiter
-    image: {fileID: 21300000, guid: 23142dc16eaec3f40b3411051b614b32, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - Largest planet; mass = 318 Earths; volume > 1 300 Earths.
-    - Spins once in ~10 h, producing a noticeable equatorial bulge.
-    - '  Great Red Spot is a centuries-old storm wider than Earth. '
-    - "Atmosphere mainly H\u2082 (90 %) and He (10 %); traces of CH\u2084, NH\u2083,
-      H\u2082O colour the clouds. "
-    - "Emits 1.6 \xD7 the solar energy it receives due to Kelvin\u2013Helmholtz contraction."
-    - "Metallic-hydrogen layer generates a magnetic field 20 000-fold Earth\u2019s
-      strength. "
-    - Ring system is faint dust sourced from shepherd moons Metis, Adrastea, Amalthea,
-      Thebe.
-    - '  Has 4 large Galilean moons, each a unique geological laboratory. '
-    - "Radiation belts near the planet exceed 10 Mrads day\u207B\xB9 \u2014 lethal
-      without heavy shielding."
-    - Juno and JUICE missions are rewriting theories of core dilution, jet depths
-      and moon oceans.
+    - "Largest planet in the Solar System \u2014 over 11 Earths wide."
+    - Composed mostly of hydrogen and helium.
+    - "Hosts the Great Red Spot \u2014 a centuries-old storm."
+    - Spins once every 10 hours, creating an oblate shape.
+    - Has 95 known moons, including the four Galilean moons.
+    - Europa may have a global subsurface ocean.
+    - "Magnetic field is 20 000 times stronger than Earth\u2019s."
+    - Emits more heat than it receives from the Sun.
+    - Juno mission is currently studying its internal structure.
+    - Acts as a gravitational shield for inner planets.
   - planets: 5
     name: Saturn
-    image: {fileID: 21300000, guid: 39ebc9a25ddc0a642b441710cb3d8fe3, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - "Rings only 10\u2013100 m thick yet span 300 000 km. "
-    - "Average density 0.69 g cm\u207B\xB3\u2014Saturn would float in water."
-    - "Winds reach 1 400 km h\u207B\xB9 at equator."
-    - North-pole hexagon is a stationary wave 30 000 km wide.
-    - "Emits > 2 \xD7 absorbed solar energy via helium rain."
-    - "Cassini\u2013Huygens orbiter + Titan lander revolutionised ring and moon science
-      (2004\u20132017)."
-    - "Enceladus plumes vent 200 kg s\u207B\xB9 of salty water into space."
-    - Dragonfly rotorcraft will explore Titan in the 2030s.
-    - "Saturn\u2019s magnetic axis is almost perfectly aligned with its rotation
-      (< 0.06\xB0 tilt)."
-    - "Seasonal \u201CGreat White Spots\u201D appear roughly once per Saturn year
-      (~30 Earth yrs)."
+    - Known for its brilliant ring system, made of ice and rock.
+    - Second-largest planet in the Solar System.
+    - Has 146 known moons, including Titan and Enceladus.
+    - Titan has rivers, lakes, and a thick atmosphere.
+    - Enceladus ejects plumes from an underground ocean.
+    - Rings are over 280 000 km wide, but paper-thin.
+    - "Rotates quickly \u2014 a day lasts ~10.5 Earth hours."
+    - Made mostly of hydrogen and helium.
+    - "Explored in depth by the Cassini\u2013Huygens mission."
+    - "Less dense than water \u2014 Saturn would float in a large enough ocean."
   - planets: 6
     name: Uranus
-    image: {fileID: 21300000, guid: 5a9054059d012f348914ffd6e46264f3, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - "Axis tilted 98\xB0, causing extreme 42-year seasons."
-    - "Average temperature at cloud tops \u2248 \u2013210 \xB0C."
-    - "Magnetic field tilted 59\xB0 and offset from planetary centre."
-    - Emits little excess heat compared to absorbed sunlight.
-    - Methane makes Uranus appear blue-green.
-    - Voyager 2 (1986) is the only spacecraft to fly by.
-    - 13 narrow, dark rings shepherded by tiny moons.
-    - "Miranda\u2019s Verona Rupes cliff drops 20 km."
-    - "Winds reach 900 km h\u207B\xB9 despite weak convection."
-    - UOP flagship mission aims for arrival ~2044.
+    - "Uranus rotates on its side, with an axial tilt of 98\xB0."
+    - "It has 13 known rings \u2014 dark and narrow."
+    - "Composed of icy materials, it\u2019s classified as an ice giant. "
+    - Atmosphere contains methane, giving it a blue-green color.
+    - "Temperatures drop to \u2013224 \xB0C \u2014 among the coldest in the Solar
+      System."
+    - Magnetic field is tilted and off-centered.
+    - 27 moons are named after literary characters.
+    - Only Voyager 2 has visited Uranus (in 1986).
+    - Miranda, one of its moons, has bizarre, broken terrain.
+    - Uranus has extreme seasons lasting over 40 Earth years each.
   - planets: 7
     name: Neptune
-    image: {fileID: 21300000, guid: 8b6da2f8e5abfe248b547c7c2048c220, type: 3}
+    image: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
     facts:
-    - Deep blue colour enhanced by methane and unknown chromophores.
-    - "Winds exceed 2 100 km h\u207B\xB9\u2014fastest in the Solar System."
-    - Emits 160 % more heat than it receives.
-    - Great Dark Spots are short-lived Earth-sized storms.
-    - Triton orbits retrograde and geysers nitrogen jets.
-    - Ring arcs are gravitationally confined dust clumps.
-    - Magnetic field offset 0.55 radii from centre.
-    - easons span 40 Earth years each.
-    - Voyager 2 measured internal density hinting at a rocky core ~1.2 Earth masses.
-    - Prospective Neptune Orbiter could launch late-2030s.
+    - Neptune is the most distant planet from the Sun.
+    - "Has the fastest winds in the Solar System \u2014 over 2 100 km/h."
+    - Discovered in 1846 through mathematical prediction.
+    - Rich blue color due to methane and unknown absorbers.
+    - One Neptune year = 165 Earth years.
+    - "Features Great Dark Spots \u2014 massive storm systems."
+    - Has 14 moons, including retrograde-orbiting Triton.
+    - "Neptune\u2019s rings are faint and hard to detect from Earth."
+    - Emits more heat than it receives from the Sun.
+    - Only Voyager 2 has visited Neptune (in 1989).
   _factInfo: {fileID: 755994627}
   _godName2: {fileID: 238048799}
   _factPanel: {fileID: 2093757081}
@@ -2424,10 +2413,10 @@ RectTransform:
   - {fileID: 2012246021}
   m_Father: {fileID: 2108449459}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.100834146, y: 0.00000001920908}
-  m_AnchorMax: {x: 0.9016992, y: 0.40789714}
-  m_AnchoredPosition: {x: 0, y: 148.6286}
-  m_SizeDelta: {x: 0, y: 297.2573}
+  m_AnchorMin: {x: 0.100834146, y: 0.0000000011299466}
+  m_AnchorMax: {x: 0.9016992, y: 0.52529734}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0.000030517578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &286198817
 MonoBehaviour:
@@ -2754,8 +2743,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 242644376}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: -0.2549461}
-  m_AnchorMax: {x: 1, y: 1.1092616}
+  m_AnchorMin: {x: -0.00000008201303, y: -0.2549461}
+  m_AnchorMax: {x: 1.0267749, y: 1.1092616}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2781,15 +2770,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: "User Name\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8d97954865dda7047aa065a823d265a6, type: 2}
-  m_sharedMaterial: {fileID: 2738190914618845371, guid: 8d97954865dda7047aa065a823d265a6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
+  m_sharedMaterial: {fileID: 3801907551278150251, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4285275695
-  m_fontColor: {r: 0.18431373, g: 0.11764706, b: 0.42352942, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2885,10 +2874,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 494384557}
-  - {fileID: 1949614701}
   - {fileID: 32257723}
   - {fileID: 1749252402}
   - {fileID: 1802629173}
+  - {fileID: 1949614701}
   m_Father: {fileID: 264198022}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -3207,7 +3196,7 @@ MonoBehaviour:
   _avatar: {fileID: 959101207}
   _avatarHome: {fileID: 1809357324}
   _editorHome: {fileID: 1620941887}
-  _basicAvatar: {fileID: 2800000, guid: 686b133098e33f04e8843df6a6eaf33e, type: 3}
+  _basicAvatar: {fileID: 2800000, guid: ed444a81aee81114d8b55d11cdc0c57c, type: 3}
 --- !u!1 &493304357
 GameObject:
   m_ObjectHideFlags: 0
@@ -3399,7 +3388,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9ce8488aaae02da4f8034307f54af6d3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3450,8 +3439,8 @@ RectTransform:
   - {fileID: 38079510}
   m_Father: {fileID: 573027044}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.030969024, y: 0.0902551}
-  m_AnchorMax: {x: 1.0311388, y: 0.91131777}
+  m_AnchorMin: {x: 0.000084825864, y: 0.15471984}
+  m_AnchorMax: {x: 1.0000849, y: 0.8452802}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3475,7 +3464,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fa17a51f9d4e27a4f9b4c79fac575936, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 654c7206a17178a49a4aef3772b98c65, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3714,8 +3703,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 316.88998, y: -2119}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 316.53503, y: -1962.3999}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &576662552
 MonoBehaviour:
@@ -3737,7 +3726,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3c0f9c1c213880d4cb5e4c12a31ac296, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dd80afd6020298744867b75435e0cfef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3879,7 +3868,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.047971755, y: 0.8667955}
   m_AnchorMax: {x: 0.20761561, y: 0.9385466}
-  m_AnchoredPosition: {x: -6.7927856, y: 11.675293}
+  m_AnchoredPosition: {x: -6.7928467, y: 11.675293}
   m_SizeDelta: {x: -45.003, y: -37.7856}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &616547663
@@ -3996,10 +3985,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2005845187}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.3069591, y: 0.29549304}
-  m_AnchorMax: {x: 0.7783751, y: 0.75111616}
+  m_AnchorMin: {x: 0.3069591, y: 0.28471988}
+  m_AnchorMax: {x: 0.7783751, y: 0.740343}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0.000006198883, y: -0.00000047683716}
+  m_SizeDelta: {x: 0.0000015497208, y: 0.00000333786}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &657450619
 MonoBehaviour:
@@ -4021,17 +4010,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sylvia\LArmstrong"
+  m_text: Liam Carter
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 68cd4a32d4034264ba8aee024bec8aec, type: 2}
-  m_sharedMaterial: {fileID: -1901352184477732689, guid: 68cd4a32d4034264ba8aee024bec8aec, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
+  m_sharedMaterial: {fileID: 3801907551278150251, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4285275695
-  m_fontColor: {r: 0.18431373, g: 0.11764706, b: 0.42352942, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4113,7 +4102,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &666222097
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4172,8 +4161,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 853.11, y: -433.88}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 853.46497, y: -372.8}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677902633
 MonoBehaviour:
@@ -4195,7 +4184,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b1d8c8ef44fedce408ec3ff328b08e27, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad5611c94d062244eba5d8b04b48caa2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5113,8 +5102,8 @@ RectTransform:
   - {fileID: 1731077368}
   m_Father: {fileID: 840525274}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.041402552, y: 0.07430847}
-  m_AnchorMax: {x: 1.0369662, y: 0.92224073}
+  m_AnchorMin: {x: -0.00000015935964, y: 0.1511165}
+  m_AnchorMax: {x: 1.0000002, y: 0.84888357}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -5138,7 +5127,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba98faa0bf06b074e986cb979ba2c004, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a7a4984d8c1f5ee4190a3f60c87305f7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5265,8 +5254,8 @@ RectTransform:
   - {fileID: 242644376}
   m_Father: {fileID: 855008748}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.054889686, y: 0.2508282}
-  m_AnchorMax: {x: 0.9206647, y: 0.83116215}
+  m_AnchorMin: {x: 0.06711252, y: 0.2508282}
+  m_AnchorMax: {x: 0.93288755, y: 0.83116215}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -5979,7 +5968,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 30dd33dee7d103c4eae55853e3ac9597, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d4305ab650bd72c42a93b682ce9420f9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6238,10 +6227,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2005845187}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.10246234, y: 0.31703928}
-  m_AnchorMax: {x: 0.26462495, y: 0.7295701}
+  m_AnchorMin: {x: 0.09988689, y: 0.29549283}
+  m_AnchorMax: {x: 0.2669143, y: 0.7295702}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: -0.00002360344, y: 0.0000019073486}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &959101207
 MonoBehaviour:
@@ -6263,7 +6252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 686b133098e33f04e8843df6a6eaf33e, type: 3}
+  m_Texture: {fileID: 2800000, guid: ed444a81aee81114d8b55d11cdc0c57c, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -7028,81 +7017,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1088890396}
   m_CullTransparentMesh: 1
---- !u!1 &1114024141
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1114024142}
-  - component: {fileID: 1114024144}
-  - component: {fileID: 1114024143}
-  m_Layer: 5
-  m_Name: Sample (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &1114024142
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114024141}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2113422528}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 21, y: 0}
-  m_SizeDelta: {x: -68.6035, y: -1310.8981}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1114024143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114024141}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.50980395}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 86dacb2d428d67a428851dbce2ffd642, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1114024144
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114024141}
-  m_CullTransparentMesh: 1
 --- !u!1 &1116251689
 GameObject:
   m_ObjectHideFlags: 0
@@ -7632,10 +7546,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1316534192}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.17010054, y: 0.2549573}
-  m_AnchorMax: {x: 0.82616895, y: 0.3576681}
+  m_AnchorMin: {x: 0.14049265, y: 0.18589824}
+  m_AnchorMax: {x: 0.8557781, y: 0.40375546}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -0.0000076293945}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1188429660
 MonoBehaviour:
@@ -7667,7 +7581,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: b43bf84121eacb44c8c4d64f779c6e9b, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 68520d42a2a4bf842ad05603230cfdaa, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -7696,12 +7610,12 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 75.84, y: 109.31, z: 79.75, w: 100.21}
+  m_RaycastPadding: {x: 72.11, y: 76.9, z: 69.8, w: 70.1}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a3c5e4682cd3a89498267f5dac206ce3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 757b423c840608c43843aa132a4d6234, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7752,10 +7666,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1316534192}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.17196544, y: 0.12410996}
-  m_AnchorMax: {x: 0.8280352, y: 0.22681974}
-  m_AnchoredPosition: {x: 0, y: -0.000061035156}
-  m_SizeDelta: {x: 0, y: 0.000038146973}
+  m_AnchorMin: {x: 0.14049233, y: 0.056298785}
+  m_AnchorMax: {x: 0.85577834, y: 0.2741519}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1200423768
 MonoBehaviour:
@@ -7787,7 +7701,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: e72e8522e1c695f46a643b02fee0e60b, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: b0155c4a1bd8ec94aaf7043a0a27e60e, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -7816,12 +7730,12 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_RaycastPadding: {x: 67.82, y: 76.78, z: 71.31, w: 66.03}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 940bc0295b9d23746b7de577e98ba9ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a0cf4b30969b82548afd5ae7b1c70275, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7993,8 +7907,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 853.11, y: -1276.44}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 853.46497, y: -1167.6}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1243334838
 MonoBehaviour:
@@ -8016,7 +7930,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6993ece96e32297449e7b96ca817ee78, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 593896f3de43ee749a4d4489afe151a2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8388,7 +8302,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9ba5a8be5c22be442bc230016bd05132, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4caf5850d0159304e93d24251b4f7a59, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8991,10 +8905,10 @@ MonoBehaviour:
   - {fileID: 287357475}
   - {fileID: 2134187979}
   replies: 
-  _currentPoint: {fileID: 21300000, guid: 28f841f8aabe4714184b9154bcfb0a13, type: 3}
-  _defaultPoint: {fileID: 21300000, guid: dbdc711e826a80540b837ee81efce9d3, type: 3}
-  _corectPoint: {fileID: 21300000, guid: eb9d4dfafc3f8a649a28e34cbdee5df5, type: 3}
-  _incorectPoint: {fileID: 21300000, guid: 907d1f70617778a419b23c3fcf3e9835, type: 3}
+  _currentPoint: {fileID: 21300000, guid: 3329d9fa5e1e0474d9dd649d84bf85a1, type: 3}
+  _defaultPoint: {fileID: 21300000, guid: 41061b0d651f17a4eb0ae1627e07d925, type: 3}
+  _corectPoint: {fileID: 21300000, guid: 8b37179fb4221e24b8db65a33afc2499, type: 3}
+  _incorectPoint: {fileID: 21300000, guid: a26f0e5baafc02f4681dc73622edf094, type: 3}
   _answersButton:
   - {fileID: 1629863187}
   - {fileID: 1316006677}
@@ -9010,10 +8924,10 @@ MonoBehaviour:
   - {fileID: 807256713}
   - {fileID: 1067376229}
   - {fileID: 1366852630}
-  _defaultButton: {fileID: 21300000, guid: 1840ccc554162ba4d99080a2053c95de, type: 3}
-  _selecterdButton: {fileID: 21300000, guid: e83f3b7ffee564a44898be9e31693640, type: 3}
-  _correctButton: {fileID: 21300000, guid: 78297012cfa08774e850962ef1e9ab9a, type: 3}
-  _incorrectButton: {fileID: 21300000, guid: 4743a4bfd46db8b44a9685c982637d15, type: 3}
+  _defaultButton: {fileID: 21300000, guid: e4e62be97619a1b489be34d8386bf8e8, type: 3}
+  _selecterdButton: {fileID: 21300000, guid: b1e8e7fcee26fcc4bbfc167e8e996a74, type: 3}
+  _correctButton: {fileID: 21300000, guid: 139330106fb228647b51a8cfcc3ef741, type: 3}
+  _incorrectButton: {fileID: 21300000, guid: c7f4fc4ef410f21428a5ffaaed3c78ff, type: 3}
   _question: {fileID: 493304359}
   _reply: {fileID: 1088890398}
   _next: {fileID: 1116705302}
@@ -9059,8 +8973,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1620941886}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.3030904, y: -0.24198557}
-  m_AnchorMax: {x: 0.7624997, y: 0.18500182}
+  m_AnchorMin: {x: 0.27029595, y: -0.24198557}
+  m_AnchorMax: {x: 0.7297052, y: 0.18500182}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -9084,7 +8998,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ab9371a71c6d2b449b7b3810b8f753a6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b3118141da4deb2468ba3eac79032367, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9161,7 +9075,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 686b133098e33f04e8843df6a6eaf33e, type: 3}
+  m_Texture: {fileID: 2800000, guid: ed444a81aee81114d8b55d11cdc0c57c, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -9759,8 +9673,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 316.88998, y: -1276.44}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 316.53503, y: -1167.6}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1689204663
 MonoBehaviour:
@@ -9782,7 +9696,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f53d2f773cc10374d9185977b77696d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a5efaccb2e705fc41ae0a83324dcde64, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10020,10 +9934,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 787984260}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.13873725, y: 0.07432326}
-  m_AnchorMax: {x: 0.8642915, y: 0.1488506}
-  m_AnchoredPosition: {x: 0, y: 0.00012207031}
-  m_SizeDelta: {x: 0.0000076293945, y: -0.000061035156}
+  m_AnchorMin: {x: 0.11467402, y: 0.036341947}
+  m_AnchorMax: {x: 0.885326, y: 0.21966062}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1731077369
 MonoBehaviour:
@@ -10055,7 +9969,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: a6a702c5708b0664f9076750a6224ff6, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: b6683871f1a5db2488edfddf0c269871, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -10089,7 +10003,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 896a0009e51b707499333e8a1889b28b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0db5430fbf6ca5041bc66ab7cf59cafa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10187,8 +10101,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.00019248045}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.0009860491}
+  m_SizeDelta: {x: 0, y: 2887.2}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1741252383
 MonoBehaviour:
@@ -10219,13 +10133,13 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: -33
+    m_Top: 18
     m_Bottom: 570
   m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 655.42, y: 933.76}
-  m_Spacing: {x: -119.2, y: -91.2}
+  m_CellSize: {x: 469.33, y: 709.6}
+  m_Spacing: {x: 67.6, y: 85.2}
   m_Constraint: 1
   m_ConstraintCount: 2
 --- !u!1 &1749252401
@@ -10260,8 +10174,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 396895311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.0298416, y: 0.10962574}
-  m_AnchorMax: {x: 1.0304749, y: 0.8060473}
+  m_AnchorMin: {x: 0.05864786, y: 0.23385485}
+  m_AnchorMax: {x: 0.9416519, y: 0.7372087}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -10285,7 +10199,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b39953e84e580f645bcd22b6622b3874, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 911a85242d5e41b42bb15226dc71cbc4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10336,8 +10250,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 242644376}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: -0.2549461}
-  m_AnchorMax: {x: 1, y: 1.1092616}
+  m_AnchorMin: {x: -0.00000008201303, y: -0.2549461}
+  m_AnchorMax: {x: 1.0267749, y: 1.1092616}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -10383,15 +10297,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Write your name
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8d97954865dda7047aa065a823d265a6, type: 2}
-  m_sharedMaterial: {fileID: 2738190914618845371, guid: 8d97954865dda7047aa065a823d265a6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
+  m_sharedMaterial: {fileID: 3801907551278150251, guid: e650d0905db0aa44babd20777ec5554c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294920656
-  m_fontColor: {r: 0.18431373, g: 0.11764706, b: 0.42352942, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -10686,10 +10600,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 396895311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.80452925, y: 0.8659928}
-  m_AnchorMax: {x: 0.961362, y: 0.9373246}
+  m_AnchorMin: {x: 0.033883195, y: 0.10133871}
+  m_AnchorMax: {x: 0.96464056, y: 0.24147314}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0.00012207031}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1802629174
 MonoBehaviour:
@@ -10721,7 +10635,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 645f9e400a469164db4ad65dbad8664d, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: b772a515c62ed0c4bba2371f605bac3e, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -10755,7 +10669,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 962c7f7e38f9e3944b31b26bfce99b82, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f4a0dbbad94479148878911c5ad75bfc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11015,8 +10929,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.12829342}
   m_AnchorMax: {x: 1, y: 0.71636117}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -0.000045776367}
+  m_AnchoredPosition: {x: 0, y: -18.294}
+  m_SizeDelta: {x: 0, y: 36.588}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1837078114
 MonoBehaviour:
@@ -11221,7 +11135,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1883243428
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11279,8 +11193,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 468.50607, y: -2541.8901}
-  m_SizeDelta: {x: 937.01215, y: 4701.68}
+  m_AnchoredPosition: {x: 468.50607, y: -2092.005}
+  m_SizeDelta: {x: 937.01215, y: 3801.91}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1885783513
 MonoBehaviour:
@@ -11366,8 +11280,8 @@ MonoBehaviour:
     planets everywhere gain (or lose) their mantles, sustain magnetic shields, and
     interact with ferocious stellar winds.\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 86ed6d25196bc7848847e6fee3e52135, type: 2}
-  m_sharedMaterial: {fileID: -6520410365920630101, guid: 86ed6d25196bc7848847e6fee3e52135, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -11586,8 +11500,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 316.88998, y: -433.88}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 316.53503, y: -372.8}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1929596835
 MonoBehaviour:
@@ -11609,7 +11523,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 27eb4f91020536446aa76be942257e8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 90c98f63f6bbac440a2da7c7aa4ca8a9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11684,7 +11598,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 24431a1878858bc4cb6d785fc6dab245, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d7c67d5902d1f7f459b0b6508580d928, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11736,8 +11650,8 @@ RectTransform:
   - {fileID: 419765267}
   m_Father: {fileID: 396895311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.0007347548, y: -0.000000017047492}
-  m_AnchorMax: {x: 0.99926525, y: 0.1184629}
+  m_AnchorMin: {x: -0.0007347548, y: 0.0000000027265605}
+  m_AnchorMax: {x: 0.99926525, y: 0.11391825}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -11761,7 +11675,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ff79ef4cfbaad584e81a6cb66c890ec0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b567ca8cee73ad8468d4a79567ff1342, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11852,369 +11766,332 @@ MonoBehaviour:
   - Uranus
   - Neptune
   _godInfos:
-  - "Perched only 0.39 AU from our star, Mercury is a diminutive but heavyweight
-    world: while its diameter is just 38 % of Earth\u2019s, its density rivals ours,
-    thanks to an iron-nickel core that swallows roughly 70 % of the planet\u2019s
-    radius. Why so much metal and so little rock? Two leading hypotheses exist. The
-    \u201Cgiant impact\u201D scenario proposes an early collision that peeled away
-    Mercury\u2019s original mantle, leaving a metallic heart with a paper-thin shell.
-    The competing \u201Csolar evaporation\u201D model suggests the infant Sun\u2019s
-    ferocious wind simply blasted lighter silicates into space. BepiColombo\u2019s
-    forthcoming measurements of isotopes and gravimetric wiggles may finally tip
-    the scale between these ideas.\r\nA Mercurian day-to-night swing is the most
-    extreme among the major planets: from noon\u2019s +430 \xB0C \u2014 hotter than
-    a pizza oven \u2014 down to \u2013180 \xB0C before dawn, colder than liquid nitrogen.
-    These extremes stem from an exosphere so thin that its atoms, mostly sodium and
-    potassium, rarely collide. The surface, darker than fresh asphalt (albedo 0.07),
-    absorbs sunlight, radiates it away at night, and bears witness to eons of cosmic
-    bombardment. Caloris Basin, one of the Solar System\u2019s ten largest impact
-    scars, stretches 1 550 km; shockwaves from its formation lifted chaotic terrain
-    on the opposite hemisphere, a planetary bruise recorded in stone.\r\nTelltale
-    lobate scarps snake hundreds of kilometres, where contracting crust buckled as
-    the core cooled. Topographic data from MESSENGER indicate Mercury has shrunk
-    by roughly 7 km in radius\u2014impressive for a world already so small. Yet despite
-    cooling, a liquid outer core survives, powering a dynamo that generates a global
-    magnetic field, surprising given Mercury\u2019s slow 59-day rotation. This field,
-    only 1 % as strong as Earth\u2019s, is nevertheless strong enough to carve a
-    miniature magnetosphere. Solar wind piles up on the dayside and reconnects along
-    magnetic cusps, raining particles onto the surface and sputtering more atoms
-    into the exosphere. In ultraviolet light, observers glimpse a shimmering sodium
-    \u201Ccomet tail\u201D trailing the planet for millions of kilometres.\r\nAdd
-    to that a bizarre spin\u2013orbit resonance: Mercury rotates three times for
-    every two laps around the Sun, making a local solar day equal 176 Earth days.
-    Stand near longitude 0\xB0, and you could watch the Sun rise, halt, reverse slightly,
-    then march forward again \u2014 an optical ballet predicted by theory and confirmed
-    by Mariner 10 imagery.\r\nPolar science delivered the most surprising twist:
-    radio-wave reflections and neutron counts revealed bright patches inside permanently
-    shadowed craters. Spectroscopy confirms these are deposits of water ice mixed
-    with organic-rich dark material \u2014 a cosmic freezer bag delivered by comets
-    and shielded from sunlight for perhaps a billion years.\r\nCulturally, Mercury
-    has always symbolised speed. Ancient Assyrians named it Nabu, scribes of the
-    gods; Greeks called it Stilb\u014Dn (the gleaming one) at dawn, Hermaon at dusk;
-    Romans unified the dual identity under Mercurius, divine courier. Today the planet
-    still delivers messages \u2014 about planetary differentiation, magnetic dynamos,
-    and the limits of Einstein\u2019s relativity, which receives one of its strongest
-    tests from Mercury\u2019s perihelion precession.\r\nWith BepiColombo\u2019s two
-    spacecraft \u2014 MPO (Mercury Planetary Orbiter) and Mio (Mercury Magnetospheric
-    Orbiter) \u2014 scientists aim to map elemental abundances, probe tidal flexing
-    to gauge core size, and trace how charged particles sculpt the exosphere into
-    a comet-like plume. Each discovery on this sun-scorched world refines our models
-    of how rocky planets everywhere gain (or lose) their mantles, sustain magnetic
-    shields, and interact with ferocious stellar winds."
-  - "Venus is Earth\u2019s near-twin in size yet its climatic evil twin. Wrapped
-    in a mantle of carbon-dioxide 92 bar thick\u2014comparable to the pressure 900
-    m beneath Earth\u2019s oceans\u2014Venus roasts at 465 \xB0C under perpetual,
-    bone-white clouds of sulfuric acid. Those clouds reflect 70 % of sunlight, making
-    the planet dazzling through a telescope while hiding a geological inferno beneath.\r\nLong
-    before spacecraft, Venus shaped culture: the Morning and Evening Star inspired
-    calendars, poems, even ancient omens of war or harvest. Galileo\u2019s 1610 observation
-    of its phases proved it orbited the Sun, shattering the geocentric model. Modern
-    radar pierced the clouds to reveal an alien surface: volcanic plains, frisbee-shaped
-    \u201Cpancake domes,\u201D rift valleys and sprawling lava flows hundreds of
-    kilometres long. Peaks such as Maxwell Montes tower 11 km above the mean surface,
-    capped not by snow but metallic \u201Cfrost\u201D of lead and bismuth sulfide
-    that condense in the tenuous highlands air.\r\nVenus rotates backwards\u2014its
-    243-day retrograde spin is slower than its 225-day year\u2014so a solar day lasts
-    117 Earth days and the Sun appears to rise in the west. Atmospheric super-rotation
-    complicates matters: winds 60-times faster than the surface whip cloud decks
-    around the planet in four Earth days, generating giant Y-shaped standing waves
-    visible in ultraviolet. Lightning crackles through the clouds; thunder, however,
-    would never reach the baked ground.\r\nSoviet Venera landers (1967\u20131985)
-    drilled the first flag into this hellscape, surviving between 23 min and two
-    hours, sending orange-hued panoramas of basaltic rubble. NASA\u2019s Magellan
-    orbiter (1990\u20131994) mapped 98 % of the surface with synthetic-aperture radar,
-    cataloguing over 1 000 volcanoes and suggesting the crust may \u201Cturn over\u201D
-    every few hundred million years in global resurfacing events. New missions\u2014NASA\u2019s
-    VERITAS and DAVINCI, ESA\u2019s EnVision, India\u2019s Shukrayaan-1\u2014aim
-    to refine topography, sniff noble-gas ratios for clues to lost oceans, and plunge
-    a probe through the choking air to read isotopes trapped since the planet\u2019s
-    youth.\r\nWhy is Venus so hot? Early work blamed sheer proximity to the Sun,
-    yet models show the culprit is a runaway greenhouse: once surface oceans evaporated,
-    water vapour (a strong greenhouse gas) trapped heat, which baked more water off
-    the rocks, until CO\u2082 dominated and temperatures skyrocketed. Without plate
-    tectonics or a significant magnetic field, volcanic CO\u2082 could not be locked
-    in subducted slabs; instead it accumulated aloft. Studying this feedback loop
-    illuminates climate tipping points for Earth-sized exoplanets and even for our
-    own future if carbon sequestration fails.\r\nIntriguingly, atmospheric layers
-    50\u201360 km above ground hover near human-comfortable temperatures and pressure.
-    There, sunlight is strong but filtered to a muted amber; acid clouds swirl like
-    over-steeped tea. Concepts for aerostat research stations\u2014balloon cities
-    riding super-rotating winds\u2014are no longer pure science-fiction. They could
-    sample mysterious ultraviolet absorbers responsible for Venus\u2019s dark patches
-    and test controversial hints of phosphine, a potential biosignature reported
-    in 2020 and still under fierce debate.\r\nVenus also produces the Solar System\u2019s
-    brightest tectonic \u201Cring of fire\u201D without plate boundaries. Coronae\u2014immense,
-    oval-shaped rises 200\u20132 000 km across\u2014likely form when hot mantle plumes
-    push upward, then collapse, leaving concentric fault trenches. Active volcanism
-    may persist: Venus Express saw transient hot spots; Magellan images re-analysed
-    in 2023 found a vent that doubled in size within eight months. Future orbiters
-    equipped with near-infrared spectrometers will hunt glowing lava at night, confirming
-    present-day eruptions.\r\nThe planet\u2019s atmosphere has layered mysteries:
-    a \u201Ccold collar\u201D wraps both poles, separating ferocious mid-latitude
-    jets from slowly reversing polar vortices. Drop deeper and pressure climbs exponentially,
-    creating a super-critical CO\u2082 ocean where sound moves faster than on Earth
-    and heat transfers by conduction rather than convection. Below 1 km visibility
-    is murky orange; breaking rocks might crackle as trapped gases pop in the dense
-    air.\r\nStudying Venus answers three fundamental questions:\n\r\n1) How do Earth-size
-    planets evolve divergent climates?\r\n\r\r2) Could hothouse feedback loops strip
-    surface water elsewhere?\r\n\r3) Which atmospheric chemical signatures truly
-    indicate life?\r\n\r\n\r\nBy decoding the inferno next door, we refine models
-    for terrestrial exoplanets and sharpen our vigilance over Earth\u2019s own climate
-    system.\r\n"
-  - "Earth is the third planet from the Sun, the only world confirmed to host life,
-    and the yardstick by which we judge every rocky body in the Universe. With a
-    diameter of 12 742 km, Earth balances competing forces: internal heat that drives
-    plate tectonics, solar energy that powers climate, and a stabilising Moon that
-    tames axial wobble. Its layered structure\u2014iron-nickel core, viscous mantle,
-    mobile crust\u2014acts like a slow-turning engine that recycles carbon, sculpts
-    continents, and forges mountain belts.\r\nAtmosphere & Magnetosphere\r\nOur air-ocean
-    envelope is 78 % nitrogen, 21 % oxygen, plus a thin mix of argon, CO\u2082, and
-    trace gases. This blend produces a surface pressure of 1 bar\u2014gentle enough
-    for lungs, dense enough for weather. Above lies the ozone shield, filtering DNA-damaging
-    UV. Encasing everything is the magnetosphere, born from fluid motions in Earth\u2019s
-    outer core. This invisible shield deflects most solar wind, shaping brilliant
-    aurorae at high latitudes and preventing wholesale erosion of atmosphere and
-    water\u2014fates that befell Mars.\r\nPlate Tectonics\r\nEarth remains the only
-    planet with a global network of moving lithospheric plates. Heat leaks from the
-    core, convects through the mantle, and drives crustal rafts to collide, rip apart,
-    or slide laterally. At convergent margins, slabs dive, melt, and bubble up volcanoes
-    laden with volatiles; at rifts and ridges, basalt wells up, renewing ocean floor
-    every 180 million years or less. This tectonic conveyor regulates the carbonate\u2013silicate
-    cycle: CO\u2082 erupts, dissolves in rain, locks into rocks, then returns via
-    subduction, stabilising long-term climate within a few tens of degrees for billions
-    of years\u2014crucial for persistent liquid water.\r\nHydrosphere & Biosphere\r\nWater
-    blankets \u2248 71 % of the surface, partitioned into salty oceans, freshwater
-    lakes, rivers, ice sheets, groundwater, and atmospheric vapour. The global ocean
-    acts as both heat sink and cradle of life: hydrothermal vents may have sparked
-    early biochemistry 3.8 billion years ago. Photosynthetic microbes pumped oxygen
-    into the air during the Great Oxidation Event (~2.4 Ga), paving the way for complex
-    multicellular life. Today, an estimated 8\u201310 million species weave a biosphere
-    that cycles nutrients, modulates greenhouse gases, and shades Earth\u2019s albedo
-    with forests, plankton blooms and cloud-seeding aerosols.\r\nClimate System\r\nIncoming
-    solar radiation (~1 366 W m\u207B\xB2 at top of atmosphere) drives wind belts,
-    monsoons, ocean currents and the hydrologic cycle of evaporation, condensation
-    and precipitation. Seasonal tilt (23.4\xB0) generates climatic zones\u2014from
-    equatorial rainforests to polar deserts\u2014while Milankovi\u0107 orbital variations
-    pace ice-age rhythms. Since the Industrial Revolution, anthropogenic CO\u2082
-    has risen from 280 ppm to 420 ppm, enhancing greenhouse forcing by ~2 W m\u207B\xB2.
-    Paleoclimate cores warn that rapid CO\u2082 spikes previously coincided with
-    mass extinctions, underscoring the urgency of mitigation and adaptation research.\r\nMoon\u2013Earth
-    Partnership\r\nFormed from a giant impact ~4.5 Ga, the Moon stabilises Earth\u2019s
-    spin axis and pulls tides that stir oceans, ventilate coastal ecosystems, and
-    perhaps aided the migration of early amphibians. Laser ranging shows the Moon
-    recedes by 3.8 cm yr\u207B\xB9, lengthening Earth days by 2 ms per century.\r\nObservation
-    & Exploration\r\nFrom the first partial Blue Marble photo (Apollo 8, 1968) to
-    today\u2019s constellation of weather, GPS and climate-monitoring satellites,
-    space-based sensors give global views of hurricanes, phytoplankton blooms, wildfire
-    plumes and tectonic strain. Programs like Copernicus, GOES-R and NASA\u2019s
-    Earth System Observatory integrate radar, lidar, microwave, infrared and laser
-    altimetry to quantify sea-level rise, carbon fluxes, and groundwater depletion
-    in near-real time.\r\nFuture Frontiers\r\nKey questions linger: How will tipping
-    points (Amazon die-off, ice-sheet collapse) reshape habitability? Can we harness
-    plate-boundary geothermal energy at scale? Will synthetic biology and carbon-sequestration
-    tech stabilise atmospheric CO\u2082? Answering these requires interdisciplinary
-    science\u2014geology, climatology, oceanography, ecology, economics\u2014making
-    Earth the most complex, yet accessible, planet for study.\r\n"
-  - "Mars, fourth planet from the Sun, has long captured human imagination\u2014first
-    as a celestial omen, then as the most plausible abode for extraterrestrial life.
-    With a diameter of 6 779 km (just over half Earth\u2019s), Mars is a cold desert
-    world where rusty iron oxides coat basaltic sands, turning the surface a ruddy
-    hue that inspired its nickname, the Red Planet.\r\nInterior & Surface\r\nSeismic
-    data from NASA\u2019s InSight lander reveal a silicate mantle ~1 560 km thick
-    and a molten iron-sulfur core ~1 830 km in radius. Absent global plate tectonics,
-    volcanic provinces such as Tharsis rise like enormous scabs on a single crustal
-    plate. There, Olympus Mons soars 22 km above the datum\u2014three times Everest\u2019s
-    height\u2014its shield flanks built by eruptions lasting hundreds of millions
-    of years. Across the equator yawns Valles Marineris, a canyon network 4 000 km
-    long and 7 km deep, formed by tectonic stretching and subsequent erosion.\r\nAtmosphere
-    & Climate\r\nToday\u2019s Martian air is 95 % CO\u2082, 1 % water vapour, plus
-    nitrogen, argon and trace oxygen, giving a surface pressure of 600\u20131 200
-    Pa (\u223C0.6 % of Earth). Temperatures swing from \u2212125 \xB0C at winter
-    poles to 20 \xB0C in equatorial summer noon. Without a thick blanket, heat escapes
-    rapidly; any liquid water exposed on the surface boils or freezes. Seasonal sublimation
-    of polar carbon-dioxide ice fuels planet-encircling dust storms that can last
-    months, concealing solar panels and sculpting dunes into barchans and star patterns.\r\nYet
-    evidence abounds that Mars was once wetter: orbital spectrometers find clay minerals,
-    delta fans, and hematite spherules (\u201Cblueberries\u201D) precipitated in
-    standing water. Sedimentary layers at Gale Crater, explored by the Curiosity
-    rover, record ancient lakes lasting thousands of years. Perseverance, operating
-    in Jezero Crater since 2021, drills carbonate-rich river-delta rocks\u2014prime
-    sites for fossil biosignatures\u2014and stores sample tubes for later return
-    via the joint NASA/ESA Mars Sample Return campaign.\r\nWater Ice & Habitability\r\nMars
-    still hoards water. Radar reflections from Mars Express and SHARAD detect buried
-    glaciers at mid-latitudes; the southern polar cap stacks 1.6 km of CO\u2082 ice
-    atop a 3 km water-ice core. Thin films of perchlorate brines may seasonally appear
-    near 0 \xB0 latitude, lowering freezing points to \u221270 \xB0C\u2014too salty
-    for most Earth microbes but a tantalising astrobiological niche. Methane spikes
-    measured by Curiosity and Trace Gas Orbiter hint at seasonal release from clathrates
-    or, speculatively, subsurface life; resolving their origin is a top priority
-    for aerial drone scouts such as the Ingenuity technology demonstrator.\r\nMagnetic
-    Past & Radiation Present\r\nUnlike Earth, Mars today lacks a global magnetosphere,
-    leaving its atmosphere open to stripping by solar wind. MAVEN shows ions escaping
-    at rates up to 100 g s\u207B\xB9 during solar storms. But crustal magnetic anomalies\u2014especially
-    over Terra Cimmeria and Terra Sirenum\u2014record an early dynamo that shut down
-    ~4.1 Ga. Understanding why it died offers clues to planetary cooling, core crystallisation
-    and long-term habitability.\r\nHuman Exploration & Future Missions\r\nRobotic
-    emissaries now dot Mars: landers (Viking, Pathfinder, Phoenix, InSight), rovers
-    (Sojourner, Spirit, Opportunity, Curiosity, Perseverance) and orbiters from NASA,
-    ESA, ISRO, CNSA, and UAE. Next steps include ExoMars Rosalind Franklin, drilling
-    two metres for organics, and Sample Return, slated to deliver Martian rocks to
-    Earth in the early 2030s. Concepts for crewed missions revolve around in-situ
-    resource utilisation: extracting O\u2082 from CO\u2082 via the MOXIE instrument,
-    mining water ice for fuel, and 3-D printing habitats with regolith. Before humans
-    set foot, we must solve perchlorate toxicity, global dust mitigation, and cosmic-ray
-    shielding\u2014challenges that make Mars a proving ground for deep-space habitation.\r\nMars
-    thus serves three scientific frontiers: (1) evolutionary snapshots of a once
-    temperate world turned arid; (2) astrobiology\u2019s search for past or extant
-    microorganisms; (3) technology test-beds for future interplanetary settlement.\r\n"
-  - "Jupiter is the colossus of our Solar System \u2014 a hydrogen-helium sphere
-    more massive than every other planet combined. Stretching 142 984 km across the
-    equator, it completes a rotation in 9 h 56 m, the fastest of all planets, which
-    flattens the poles and balloons the equator into an oblate spheroid. Rapid spin
-    plus internal heat (~4 W m\u207B\xB2) drive multiple jet streams that paint the
-    cloud tops in alternating cream and russet bands called zones and belts.\r\nInterior
-    & Atmosphere\r\nBeneath the top clouds (ammonia ice at \u2013145 \xB0C), pressure
-    climbs until hydrogen liquefies, then becomes metallic at ~3 Mbar, conducting
-    electricity like molten iron. A diluted-core model suggests a fuzzy, partially
-    mixed region of rock, ice and metallic hydrogen spread across 40 % of the radius
-    \u2014 evidence that a 10-Earth-mass protoplanet may have been eroded and stirred
-    by surrounding gas early on.\r\nThe visible atmosphere hosts storms of all scales.
-    The celebrity, the Great Red Spot (GRS), is a 16-000 km wide anticyclone tracked
-    since 1831 (and likely centuries earlier). Winds reach 430 km h\u207B\xB9 around
-    its perimeter, while its rust colour may stem from photochemical reactions of
-    ammonium hydrosulfide crystals lofted high into UV light. Smaller ovals, brown
-    barges, and \u201Chot spots\u201D punctuate the belts; lightning super-bolts
-    crackle in water-rich thunderheads twice as tall as terrestrial cumulonimbus.\r\nMagnetosphere
-    & Radiation\r\nJupiter\u2019s metallic-hydrogen dynamo generates a magnetic moment
-    20 000 times Earth\u2019s, inflating a magnetosphere that tail-sweeps beyond
-    Saturn\u2019s orbit. Within it, charged particles spiral along field lines, bombarding
-    the poles with 10-MeV electrons that create X-ray aurorae detected by Chandra
-    and XMM-Newton. Radiation belts pose lethal hazards for spacecraft; Juno carries
-    titanium vaults to shield electronics.\r\nMoons & Rings\r\nJupiter guards at
-    least 95 moons (tally as of 2025). The four Galilean satellites form a miniature
-    system:\r\nIo \u2014 tidally flexed 100 m twice per orbit, fuelling silicate
-    volcanoes that spew sulfur plumes 400 km high.\r\n\r\n\r\nEuropa \u2014 hides
-    a 100-km deep global ocean beneath 20-km ice; ridges and chaos blocks hint at
-    brine upwelling, making Europa a prime astrobiology target (Europa Clipper, 2030).\r\n\r\n\r\nGanymede
-    \u2014 largest moon in the Solar System, hosts its own magnetic field and possible
-    layered oceans.\r\n\r\n\r\nCallisto \u2014 battered and ancient, its fractured
-    crust may still cloak a salty sea 300 km down.\r\n\r\n\r\nFainter rings \u2014
-    halo, main and gossamer \u2014 consist of micron-sized dust lofted from moonlet
-    impacts, discovered by Voyager 1 in 1979.\r\nFormation & System Architecture\r\nNumerical
-    models credit Jupiter with sculpting the Solar System\u2019s layout: its early
-    migration may have truncated the inner disk, limiting Mars\u2019s mass; resonant
-    tugs from Jupiter\u2013Saturn \u201CGrand Tack\u201D could explain the asteroid
-    belt\u2019s mix of dry and carbon-rich bodies. Its gravity also acts as a celestial
-    goalie, deflecting or absorbing comets and asteroids that might otherwise strike
-    Earth \u2014 though resonance shaking can also send impactors our way.\r\nExploration\r\nPioneer
-    and Voyager fly-bys unlocked the first close images; Galileo (1995-2003) orbited
-    and dropped a probe that revealed 3 \xD7 solar noble-gas enrichment, hinting
-    at icy pebble accretion. The polar orbiter Juno (since 2016) maps gravity, microwaves
-    and aurorae, finding that ammonia storms \u201Cmushball\u201D deep into the troposphere
-    and that jet streams penetrate 3 000 km below clouds. ESA\u2019s JUICE (launch
-    2023, arrival 2031) will focus on Ganymede, while NASA\u2019s Dragonfly-style
-    concepts eye Io lava fountains via close fly-bys.\r\nUnderstanding Jupiter clarifies
-    gas-giant exoplanets, magnetic dynamos, and the chemistry pathways that seed
-    pre-biotic molecules on its icy moons.\r\n"
-  - "Saturn, the Solar System\u2019s second-largest planet, is a hydrogen\u2013helium
-    globe 120 536 km wide that dazzles observers with its elaborate rings and pastel
-    cloud bands. A full rotation lasts 10 h 33 m, fast enough to flatten the poles
-    and puff the equator. Although less massive than Jupiter, Saturn emits 2.3 \xD7
-    the energy it receives from the Sun; the surplus comes from helium droplets \u201Craining\u201D
-    through metallic hydrogen, converting potential energy to heat.\r\nInterior &
-    Atmosphere\r\nBeneath a 150-km haze of ammonia, ammonium-hydrosulfide and water-ice
-    clouds, pressure turns molecular hydrogen first liquid, then metallic. Gravity-field
-    data from the Cassini Grand Finale show a diluted core about 60 % of the radius,
-    a mix of rock, ice and metallic hydrogen gradually blending upward. In the visible
-    atmosphere, winds scream at 1 400 km h\u207B\xB9 near the equator\u2014twice
-    Jupiter\u2019s speed\u2014while polar regions host giant vortices. Every 30 Earth
-    years a Great White Spot thunderstorm erupts, encircling the planet with lightning
-    and ammonia-snow \u201Cblizzards.\u201D The north pole sports a persistent hexagon,
-    a wave trapped in a jet stream first imaged by Voyager and still spinning today.\r\nRings\r\nSaturn\u2019s
-    rings\u2014labeled D, C, B, A, F, G, E\u2014extend from 66 000 km to 480 000
-    km and are only 10\u2013100 m thick. Made of 95 % water-ice boulders and snowballs,
-    they would cover Earth in a layer 10 m deep if collected. Cassini radio-occultation
-    showed the total ring mass equals just half that of moon Mimas, hinting at either
-    a shredded icy moon \u2248 100 Myr ago or continued renewal via cometary debris.
-    The rings are dynamic: moonlets Pan and Daphnis carve Encke and Keeler gaps;
-    Prometheus and Pandora herd the F-ring\u2019s braided strands; meteoroid impacts
-    paint ephemeral propeller-shaped wakes.\r\nMoons\r\nSaturn has 145 confirmed
-    moons (2025 tally). Stand-outs include:\r\nTitan \u2014 second-largest moon,
-    with a 1.5-bar nitrogen\u2013methane atmosphere, lakes of liquid ethane/ methane
-    (Kraken, Ligeia, Punga) and possible subsurface water-ammonia ocean. NASA\u2019s
-    Dragonfly rotorcraft (launch 2028) will hop across its dunes and organic-rich
-    icy bedrock.\r\n\r\n\r\nEnceladus \u2014 504 km ice sphere jetting salty water
-    plumes from \u201Ctiger-stripe\u201D fractures at the south pole. Cassini sampled
-    silica nanograins and organic molecules, implying a warm alkaline ocean in contact
-    with rocky seafloor\u2014prime habitat for chemosynthetic life.\r\n\r\n\r\nIapetus
-    \u2014 two-tone walnut with a 20-km equatorial ridge and dark leading hemisphere
-    coated by dust from retrograde moon Phoebe.\r\n\r\n\r\nMimas \u2014 the \u201CDeath-Star
-    moon,\u201D crater Herschel spanning one-third its diameter; librations hint
-    at an internal ocean despite a frigid \u2013190 \xB0C surface.\r\n\r\n\r\nMagnetosphere
-    & Radiation\r\nAlthough only one-tenth Jupiter\u2019s, Saturn\u2019s magnetic
-    field outsize Earth\u2019s by 600 \xD7 volume, trapping electrons and protons
-    that create radio emissions rhythmic with the planet\u2019s rotation. Cassini\u2019s
-    close orbits measured ring-charged-particle interactions that slow the field,
-    complicating spin-rate estimates.\r\nExploration & Future Missions\r\nFrom Pioneer
-    11 (1979) to Cassini\u2013Huygens (2004\u20132017), Saturn has evolved from fuzzy
-    telescope disk to richly mapped system. Post-Cassini concepts\u2014Enceladus
-    Orbilander, Titan Dragonfly, and Ring Skimmer\u2014aim to probe biosignatures,
-    climate cycles and ring mass to resolve age debates.\r\n"
-  - "Uranus is the archetype of ice giants\u2014planets whose interiors are dominated
-    not by hydrogen gas but by super-pressurised \u201Cices\u201D of water, ammonia
-    and methane. Discovered in 1781 by William Herschel, Uranus orbits 2.87 billion
-    km from the Sun and sports a peculiar axial tilt of 98\xB0, rotating on its side
-    like a knocked-over top. This tilt gives each pole 42 years of continuous sunlight
-    followed by 42 years of darkness.\r\nInterior & Atmosphere\r\nUranus\u2019s 50
-    000-km diameter hides a rocky core (~0.5 Earth mass) shrouded by an \u201Cicy\u201D
-    mantle of H\u2082O, NH\u2083, CH\u2084 and a thin outer envelope of H\u2082/He.
-    Without strong internal heat (Uranus radiates barely what it absorbs), the atmosphere
-    appears bland in visible light, yet near-infrared imaging reveals changing storm
-    cells and bright methane-ice clouds at mid-latitudes. Methane absorbs red light,
-    giving Uranus its cyan-green colour.\r\nRings & Moons\r\nDiscoveries in 1977
-    revealed 13 thin rings, dark and dusty, shepherded by small moons Cordelia and
-    Ophelia. Uranus counts 27 named moons, sorted into classical (Miranda, Ariel,
-    Umbriel, Titania, Oberon) and irregular groups. Miranda exhibits cliffs 20 km
-    high\u2014possibly due to tidal heating or reassembly after a shattering impact.
-    Ariel shows the freshest resurfacing, hinting at cryovolcanic events less than
-    100 Myr old.\r\nMagnetic Field\r\nVoyager 2 (1986) found Uranus\u2019s magnetic
-    field bizarrely offset (0.3 planetary radii) and tilted 59\xB0 from the rotation
-    axis, creating a corkscrew magnetotail. Today\u2019s auroral studies by Hubble
-    and ground-based telescopes probe how such asymmetry modulates solar-wind interactions;
-    insights inform models of exoplanet magnetospheres.\r\nSeasons & Climate\r\nSince
-    equinox in 2007, Uranus\u2019s once-hidden north pole has swung into view, revealing
-    bright cap clouds and a growing polar vortex. Wind speeds reach 900 km h\u207B\xB9,
-    and storms photographed in 2014 rival those on Neptune. Methane condensation
-    forms upper-atmosphere ice crystals that may trigger diamond rain at megabar
-    depths, releasing latent heat that slightly offsets the low internal flux.\r\nExploration
-    Plans\r\nVoyager 2 remains the sole visitor. A proposed Uranus Orbiter and Probe
-    (UOP), recommended as the top priority flagship for planetary science (Decadal
-    Survey 2023), would launch early-2030s to study ring-moon dynamics, interior
-    composition, and atmospheric structure via a descending probe.\r\n"
-  - "Neptune, 4.5 billion km from the Sun, is the cold, windy frontier of the classical
-    planetary scheme. With a diameter of 49 244 km, it shares Uranus\u2019s \u201Cice-giant\u201D
-    makeup but radiates 2.7 \xD7 the energy it receives\u2014fuel for the fastest
-    winds in the Solar System (\u2265 2 100 km h\u207B\xB9).\r\nInterior & Atmosphere\r\nA
-    rocky core lies beneath a super-critical ocean of water, ammonia and methane
-    \u201Cices.\u201D Above 1 bar, methane clouds tint Neptune a deeper azure than
-    Uranus. Great Dark Spots, cyclonic storms the size of Earth, appear and vanish
-    within years, captured by Voyager 2 in 1989 and Hubble in 2018\u20132022. High-altitude
-    white \u201Cscooter\u201D clouds zip around the planet, marking wave crests in
-    the jet streams.\r\nRings & Moons\r\nNeptune sports five faint, dusty rings with
-    clumpy \u201Carcs\u201D maintained by moon Galatea. The planet owns 14 moons;
-    the standout is Triton, a captured Kuiper-belt object with geysers of nitrogen
-    erupting 8 km high, a retrograde orbit, and a young cantaloupe-textured surface.
-    Triton likely harbours a subsurface ocean warmed by tidal flexing, making it
-    an astrobiology prize. Planned NASA Trident and Chinese ODINUS concepts target
-    Triton fly-bys in the 2030s.\r\nMagnetic & Seasonal Dynamics\r\nNeptune\u2019s
-    magnetic field mirrors Uranus\u2019s asymmetry\u2014tilted 47\xB0, offset 0.55
-    radii\u2014creating lopsided auroral ovals. Seasons last 40 years; since southern
-    summer solstice in 2005, telescopes record steady atmospheric brightening at
-    mid-latitudes and the formation (then breakup) of dark vortices, tracing a climate
-    in slow motion.\r\nExploration Prospects\r\nVoyager 2 remains the sole visitor
-    (1989). A Uranus flagship may be followed by a Neptune\u2013Triton Orbiter to
-    determine whether Triton is a captured dwarf planet and to sample plume material
-    for organics."
+  - "Mercury, the closest planet to the Sun, is a rocky enigma wrapped in extremes.
+    Though it\u2019s the smallest of the eight planets (just over 4 880 km across),
+    its dense iron core makes it the second most massive terrestrial body by volume.
+    With no substantial atmosphere to regulate temperatures, Mercury\u2019s surface
+    experiences some of the most dramatic thermal variations in the Solar System\u2014soaring
+    to 430 \xB0C by day and plunging to \u2013180 \xB0C by night.\r\nThe planet\u2019s
+    heavily cratered surface resembles Earth\u2019s Moon but tells a more complex
+    story. Vast smooth plains, ghostly wrinkle ridges, and enormous basins like the
+    Caloris Basin\u2014spanning 1 550 km\u2014testify to ancient volcanic activity
+    and catastrophic impacts. Some regions remain permanently shadowed in deep craters
+    near the poles, where NASA\u2019s MESSENGER mission confirmed deposits of water
+    ice mixed with dark organic material\u2014an unexpected discovery so close to
+    the Sun.\r\nMercury\u2019s slow rotation\u2014once believed tidally locked\u2014is
+    actually in a 3:2 spin\u2013orbit resonance, rotating three times for every two
+    orbits. This means a full solar day (sunrise to sunrise) lasts about 176 Earth
+    days. The Sun appears to pause, reverse, and then resume its path across the
+    Mercurian sky\u2014an eerie phenomenon for any imagined observer.\n\r\nInternal
+    Structure & Magnetosphere\r\nMercury\u2019s iron-rich core dominates its interior,
+    making up nearly 85 % of its radius. Seismic models suggest a solid inner core,
+    a liquid outer core, a silicate mantle, and a thin brittle crust. The planet\u2019s
+    magnetic field, first detected by Mariner 10 and later mapped in detail by MESSENGER,
+    is surprisingly strong for a small world. Generated by a dynamo effect within
+    the molten core, the magnetic field interacts with the solar wind to produce
+    miniature magnetospheric storms and fascinating magnetic reconnection events.\r\nDespite
+    the lack of a substantial atmosphere, Mercury possesses a tenuous exosphere,
+    composed of elements like sodium, potassium, calcium, and magnesium. These particles
+    are constantly stripped and replenished via solar wind bombardment and micrometeorite
+    impacts.\n\r\nExploration History\r\nMariner 10 was the first to visit Mercury
+    in the 1970s, but it was MESSENGER (MErcury Surface, Space ENvironment, GEochemistry,
+    and Ranging) that truly revealed its secrets. Launched in 2004 and orbiting Mercury
+    from 2011 to 2015, MESSENGER mapped the entire surface, analyzed its composition,
+    and confirmed the presence of volatile materials. BepiColombo, a joint mission
+    by ESA and JAXA launched in 2018, will enter orbit in 2025, continuing the study
+    with improved instrumentation.\n\r\nKey Scientific Themes:\n\r\n- Tidal Flexing:
+    Mercury\u2019s slightly elliptical orbit leads to internal heating via flexing
+    of its crust and mantle.\r\n\r\n\r- Hollows: Unique bright depressions found
+    only on Mercury, likely caused by sublimation of volatile-rich material.\r\n\r\n-
+    Core\u2013Mantle Differentiation: Mercury\u2019s immense core raises questions
+    about early Solar System formation\u2014was it stripped of its mantle by a massive
+    collision?"
+  - "Venus, the second planet from the Sun, is often called Earth\u2019s twin \u2014
+    yet beneath the superficial similarities lies a world of extremes. Almost identical
+    in size (12 104 km in diameter) and mass, Venus differs radically in its environment.
+    With a runaway greenhouse effect, a thick, toxic atmosphere of 96.5 % carbon
+    dioxide, and a surface pressure 92 times that of Earth, Venus is the hottest
+    planet in the Solar System. Its average surface temperature exceeds 460 \xB0C,
+    hot enough to melt lead \u2014 even hotter than Mercury, despite being farther
+    from the Sun.\r\nThe Venusian sky is forever shrouded in dense sulfuric-acid
+    clouds, hiding the surface from optical telescopes. Only radar mapping, pioneered
+    by NASA\u2019s Magellan mission in the early 1990s, revealed a planet scarred
+    by lava plains, ridged plateaus, volcanic domes, and enigmatic structures like
+    arachnoids and coronae \u2014 circular tectonic scars possibly linked to upwelling
+    mantle plumes.\r\nUniquely, Venus rotates retrograde, meaning it spins in the
+    opposite direction of most other planets. A day on Venus (one rotation) takes
+    243 Earth days, while a year (one orbit) is only 225 Earth days \u2014 making
+    a Venusian day longer than its year.\r\nSurface & Interior\r\nThe surface of
+    Venus is a volcanic landscape. About 80 % is covered by basaltic lava flows,
+    suggesting widespread volcanic resurfacing events in the past billion years.
+    Shield volcanoes, lava channels, and pancake domes are common. There\u2019s no
+    evidence of plate tectonics like Earth\u2019s, but some researchers believe Venus
+    experiences episodic resurfacing, where heat builds under the crust until it
+    releases in massive planetary-wide eruptions.\r\nVenus lacks a significant global
+    magnetic field, likely because of its slow rotation and fully molten core that
+    fails to generate a stable dynamo. This leaves the upper atmosphere vulnerable
+    to solar wind stripping \u2014 yet a dense ionosphere and induced magnetosphere
+    partially deflect charged particles.\r\nAtmosphere & Greenhouse Effect\r\nVenus\u2019s
+    atmosphere is its defining feature \u2014 a thick, choking blend of carbon dioxide,
+    nitrogen, sulfur dioxide, and trace amounts of water vapor. The planet is enveloped
+    in a persistent haze of sulfuric acid droplets, reflecting much of the Sun\u2019s
+    light and contributing to its high albedo.\r\nThe greenhouse effect on Venus
+    is so powerful that infrared radiation cannot escape into space, leading to an
+    ever-rising cycle of heat retention. Studying this climate system gives scientists
+    insight into Earth's future if carbon emissions remain unchecked.\r\nDespite
+    its hostility, the upper cloud layers (~50\u201360 km altitude) are more temperate,
+    and some have speculated about aerial microbial life or even future floating
+    research habitats.\r\nExploration & Future Missions\r\nVenus has been a target
+    of space missions since the 1960s. The Venera series from the USSR made history
+    by sending the first probes to land and return images. Venera 13 famously lasted
+    127 minutes on the surface, transmitting audio and colored panoramas.\r\nNASA\u2019s
+    Magellan orbited from 1990 to 1994, mapping over 98 % of the surface via radar.
+    Upcoming missions like VERITAS, DAVINCI, and EnVision aim to explore Venus\u2019s
+    geology, atmospheric chemistry, and history of water loss.\r\nVenus remains one
+    of the most mysterious terrestrial planets \u2014 a harsh, cloud-covered world
+    that may once have been Earthlike before climate catastrophe reshaped it forever.\r\n"
+  - "Earth is the third planet from the Sun and the only known world to host life.
+    With a diameter of 12 742 km, it's the largest of the terrestrial planets by
+    volume. Earth\u2019s dynamic systems \u2014 geological, atmospheric, magnetic,
+    and biological \u2014 have shaped a world where complex life has flourished for
+    billions of years. Unique among planets, Earth harbors liquid surface water,
+    a protective atmosphere, and a stable climate system regulated by a delicate
+    balance of carbon, weather, and ocean currents.\r\nThe planet\u2019s surface
+    is a vibrant mosaic of continents, oceans, volcanoes, glaciers, and forests.
+    Around 71 % of Earth's surface is covered by water, with the vast Pacific Ocean
+    alone larger than all landmasses combined. Life here is not only abundant but
+    also diverse \u2014 from microscopic extremophiles to multicellular organisms
+    in every biome, Earth remains an extraordinary rarity in the known Universe.\r\nStructure
+    & Plate Tectonics\r\nEarth is differentiated into layers: a solid inner core
+    (iron\u2013nickel), a liquid outer core responsible for generating the magnetic
+    field, a viscous mantle, and a rigid crust divided into tectonic plates. These
+    plates move, collide, subduct, and drift in a cycle driven by mantle convection
+    \u2014 giving rise to earthquakes, mountain ranges, and ocean trenches.\r\nThis
+    plate tectonics system is unique in the Solar System. It plays a critical role
+    in recycling carbon, stabilizing the climate over geologic time, and even enabling
+    the development of complex life by fostering varied ecosystems.\r\nAtmosphere
+    & Climate\r\nEarth\u2019s atmosphere is a nitrogen\u2013oxygen mix, with small
+    amounts of carbon dioxide, argon, and water vapor. The ozone layer in the stratosphere
+    shields life from harmful UV radiation. Earth\u2019s climate system is stabilized
+    by feedback loops between the biosphere, hydrosphere, geosphere, and cryosphere.\r\nOver
+    time, Earth's atmosphere has evolved \u2014 from a methane-rich haze in the Archean
+    eon to today's oxygenated air, largely thanks to cyanobacteria and photosynthesis.
+    However, the modern era faces unprecedented anthropogenic climate change, driven
+    by greenhouse gas emissions, deforestation, and pollution.\r\nThe Moon & Magnetosphere\r\nEarth\u2019s
+    natural satellite, the Moon, is the largest relative to its host planet (after
+    Charon\u2013Pluto). The Moon helps stabilize Earth\u2019s axial tilt, influences
+    tides, and has shaped the pace of evolution through periodic impact events and
+    light cycles.\r\nEarth\u2019s magnetic field, generated by its spinning liquid
+    outer core, deflects solar wind and cosmic rays, creating auroras near the poles.
+    The field is also essential for atmospheric retention and shielding of biological
+    systems.\r\nSpace Exploration & Observation\r\nAlthough Earth is our home, it
+    has also been the focus of intense scientific exploration. Thousands of satellites
+    monitor Earth\u2019s weather, climate, vegetation, ice, and oceans, helping us
+    understand natural processes and human impact.\r\nEarth is also the launchpad
+    for space exploration \u2014 all robotic missions, telescopes, and human ventures
+    begin here. Images like the \u201CBlue Marble\u201D and \u201CPale Blue Dot\u201D
+    have reshaped how we view our planet \u2014 not as the center of the cosmos,
+    but as a fragile speck in vast space.\r\n"
+  - "Mars, the fourth planet from the Sun, is often dubbed the Red Planet due to
+    its rust-colored surface dominated by iron oxide (hematite). With a diameter
+    of 6 779 km, it\u2019s about half the size of Earth and has intrigued scientists,
+    storytellers, and explorers for centuries. Its ancient river valleys, giant volcanoes,
+    and polar ice caps suggest a planet that once may have harbored life \u2014 and
+    might again, someday.\r\nMars has seasons, polar ice caps, dust storms, and weather
+    patterns \u2014 but it remains an extreme world. Surface temperatures range from
+    20 \xB0C at the equator in summer to \u2013125 \xB0C at the poles during winter.
+    Its thin atmosphere (mostly carbon dioxide) offers little protection from radiation
+    or meteorites, and air pressure is less than 1 % of Earth\u2019s, making liquid
+    water unstable on the surface today.\r\nDespite its harshness, Mars is one of
+    the most Earth-like planets and remains the top candidate for human colonization
+    in the future.\r\nSurface & Geology\r\nMars features some of the most extreme
+    and record-breaking geological structures in the Solar System. Olympus Mons is
+    the tallest volcano and mountain, rising over 21 km high. Valles Marineris, a
+    vast canyon system, stretches over 4 000 km, dwarfing Earth\u2019s Grand Canyon.\r\nThe
+    Martian surface shows extensive evidence of past liquid water flows: dried riverbeds,
+    delta formations, and sedimentary layering. Recurring Slope Lineae (dark streaks
+    on slopes) might indicate seasonal briny water flows, though this is still debated.\r\nMars
+    also experiences planet-wide dust storms that can last weeks and darken the surface
+    globally, affecting solar-powered rovers and atmospheric clarity.\r\nAtmosphere
+    & Moons\r\nThe Martian atmosphere is over 95 % carbon dioxide, with trace amounts
+    of nitrogen, argon, and oxygen. It\u2019s too thin to support human breathing
+    or block UV radiation, but it's thick enough to support wind erosion and weather
+    patterns.\r\nMars has two small, irregular moons \u2014 Phobos and Deimos \u2014
+    thought to be captured asteroids. Phobos is slowly spiraling inward and may eventually
+    crash into Mars or break apart into a ring.\r\nDespite lacking a global magnetic
+    field today, Mars shows magnetized crustal regions, suggesting it once had a
+    dynamo-generated field, possibly protecting a wetter, warmer climate.\r\nExploration
+    & Rovers\r\nMars is the most explored planet after Earth. Missions like Viking,
+    Pathfinder, Spirit, Opportunity, Curiosity, and Perseverance have revolutionized
+    our understanding of the planet. Perseverance, equipped with advanced instruments,
+    is currently collecting samples for future return to Earth. NASA\u2019s Ingenuity
+    helicopter became the first aircraft to fly on another planet in 2021.\r\nMars
+    is the focus of future crewed missions, with agencies like NASA, SpaceX, and
+    others actively planning human exploration and even settlement in the coming
+    decades."
+  - "Jupiter, the fifth planet from the Sun, is the largest planet in the Solar System
+    \u2014 a true gas giant with a diameter of 139 820 km and a mass over 300 times
+    that of Earth. Its gravitational influence shapes the architecture of the Solar
+    System: guiding asteroid belts, protecting inner planets from comets, and hosting
+    the largest collection of moons.\r\nDominated by hydrogen and helium, Jupiter
+    lacks a solid surface. Instead, it presents a turbulent atmosphere full of colorful
+    cloud bands, massive storms, and the iconic Great Red Spot \u2014 a persistent
+    anticyclonic storm twice the size of Earth that has raged for at least 350 years.\r\nJupiter
+    spins rapidly, completing one rotation every ~10 hours, causing an oblate shape
+    (wider at the equator) and driving powerful jet streams in its upper atmosphere.
+    This creates the distinctive striped appearance of alternating light and dark
+    bands known as zones and belts.\r\nInternal Structure & Magnetic Field\r\nBeneath
+    Jupiter\u2019s cloud layers lies a dense envelope of metallic hydrogen, formed
+    under extreme pressure. Deeper still may reside a rocky or icy core, though its
+    exact size and composition remain uncertain. The intense pressure and temperature
+    inside Jupiter create conditions not replicable on Earth.\r\nJupiter\u2019s magnetic
+    field is the strongest of all planets, over 20 000 times stronger than Earth\u2019s.
+    It generates intense radiation belts, traps charged particles, and interacts
+    with the solar wind to create vast auroras over its poles \u2014 more powerful
+    than anything on Earth.\r\nMoons & Rings\r\nJupiter is orbited by 95 known moons
+    (as of 2025), including four large Galilean moons discovered by Galileo Galilei
+    in 1610:\n\r\n- Io \u2014 the most volcanically active body in the Solar System.\r\n\r-
+    Europa \u2014 an icy world with a subsurface ocean, considered a top candidate
+    for extraterrestrial life.\r\n\r- Ganymede \u2014 the largest moon in the Solar
+    System, even bigger than Mercury, with its own magnetic field.\r\n- Callisto
+    \u2014 a heavily cratered ancient moon with a possibly subsurface ocean.\r\n\r\nJupiter
+    also has a faint system of dusty rings, formed by material ejected from small
+    moons. These are difficult to see but were discovered by Voyager 1 in 1979.\r\nExploration
+    & Importance\r\nJupiter has been visited by multiple missions: Pioneer, Voyager,
+    Galileo, and Juno, which is currently in orbit. Juno has provided detailed data
+    on Jupiter\u2019s magnetic field, atmosphere, polar cyclones, and gravitational
+    anomalies.\r\nIn the coming years, ESA\u2019s JUICE (Jupiter Icy Moons Explorer)
+    and NASA\u2019s Europa Clipper will study Jupiter\u2019s moons in detail, especially
+    Europa\u2019s habitability.\r\nJupiter acts as a solar system protector, deflecting
+    or capturing asteroids and comets that might otherwise strike Earth. Understanding
+    Jupiter is key to understanding planetary formation, both in our system and exoplanetary
+    systems beyond."
+  - "Saturn, the sixth planet from the Sun, is widely recognized for its spectacular
+    ring system \u2014 the most extensive and luminous in the Solar System. With
+    a diameter of 116 460 km, Saturn is the second-largest planet, composed primarily
+    of hydrogen and helium, much like Jupiter. Though less dense than water, its
+    massive volume makes it a true gas giant, with dynamic weather systems and an
+    interior still radiating more heat than it receives from the Sun.\r\nDespite
+    its serene golden appearance through telescopes, Saturn is a world of intense
+    winds, powerful storms, and mysterious hexagonal cloud formations at its poles.
+    It rotates rapidly (about 10.5 Earth hours per day), flattening the planet at
+    its poles and causing visible equatorial bulging.\r\nSaturn\u2019s lower density,
+    extreme weather, and dozens of diverse moons make it a crucial target for understanding
+    the outer Solar System and planetary evolution.\r\nRing System\r\nSaturn\u2019s
+    rings are made up of billions of icy particles, ranging from micrometers to meters
+    in size. These rings, designated A, B, C, D, E, F, and G, span up to 282 000
+    km in diameter but are incredibly thin \u2014 often less than 1 km thick. The
+    rings are composed of water ice, dust, and rock fragments and may be remnants
+    of shattered moons or comets.\r\nAlthough other gas giants also have rings, none
+    are as visible, extensive, or structured as Saturn\u2019s. The origin, age, and
+    eventual fate of the rings remain active areas of research.\r\nMoons & Notable
+    Satellites\r\nAs of 2025, Saturn has 146 confirmed moons, the most of any planet.
+    These range from tiny irregular bodies to Titan \u2014 the second-largest moon
+    in the Solar System and larger than Mercury.\r\nTitan: Has a dense nitrogen-rich
+    atmosphere, rivers and lakes of liquid methane and ethane, and a possible subsurface
+    ocean \u2014 making it a top candidate in the search for life.\r\n\r\n\r\nEnceladus:
+    A small, icy moon that ejects plumes of water vapor and organic molecules from
+    a subsurface ocean, offering one of the most promising environments for extraterrestrial
+    microbial life.\r\n\r\n\r\nOther moons like Rhea, Iapetus, and Mimas each feature
+    unique characteristics, including craters, equatorial ridges, and dark/light
+    surface dichotomies.\r\n\r\n\r\nInternal Structure & Magnetic Field\r\nSaturn\u2019s
+    interior is likely composed of a small rocky core surrounded by metallic hydrogen,
+    a layer of molecular hydrogen, and an outer gaseous atmosphere. This structure
+    creates a weaker magnetic field than Jupiter\u2019s but still capable of deflecting
+    solar wind and generating auroras.\r\nUnlike Jupiter\u2019s massive radiation
+    belts, Saturn\u2019s environment is more benign, making its moons safer targets
+    for exploration and even future robotic landings.\r\nExploration & Discoveries\r\nSaturn
+    has been visited by Pioneer 11, Voyager 1 & 2, and most notably, the Cassini-Huygens
+    mission (2004\u20132017). Cassini orbited Saturn for 13 years, providing a wealth
+    of data on the planet, its rings, and moons. It deployed the Huygens probe, which
+    landed on Titan\u2019s surface in 2005 \u2014 the first landing in the outer
+    Solar System.\r\nCassini\u2019s finale \u2014 a dive between Saturn and its rings
+    \u2014 gave scientists unprecedented views of the planet\u2019s gravity, magnetic
+    fields, and ring composition before it was deliberately vaporized in Saturn\u2019s
+    atmosphere.\r\n"
+  - "Uranus, the seventh planet from the Sun, is a mysterious and often overlooked
+    ice giant with a pale blue-green hue caused by methane in its upper atmosphere.
+    With a diameter of 50 724 km, it is the third-largest planet in the Solar System
+    and possesses many unique traits that distinguish it from its gas giant neighbors,
+    Jupiter and Saturn.\r\nMost notably, Uranus rotates on its side, with an axial
+    tilt of ~98 degrees. This extreme tilt gives rise to radical seasonal changes
+    \u2014 each pole experiences 42 years of continuous sunlight followed by 42 years
+    of darkness, due to the planet\u2019s 84-Earth-year-long orbit.\r\nUnlike Jupiter
+    or Saturn, Uranus has a colder core, and its atmosphere is made of heavier elements
+    like water, ammonia, and methane ices, leading scientists to classify it as an
+    ice giant rather than a traditional gas giant.\r\nAtmosphere & Weather\r\nUranus's
+    upper atmosphere is composed primarily of hydrogen and helium, with about 2 %
+    methane \u2014 the compound responsible for absorbing red light and reflecting
+    blue-green light. The planet\u2019s clouds are layered, with possible water ice
+    clouds below and methane ice clouds higher up.\r\nDespite its dull appearance
+    in visible light, Uranus has high-speed winds that can reach 900 km/h and dynamic
+    storms that remain faint in optical wavelengths but become more visible in infrared
+    or ultraviolet imaging. The planet\u2019s low internal heat output makes it one
+    of the coldest in the Solar System, with temperatures dipping as low as \u2013224
+    \xB0C.\r\nMagnetic Field & Internal Structure\r\nUranus\u2019s magnetic field
+    is highly unusual: it is both tilted at 59 degrees from its rotation axis and
+    offset from the planet\u2019s center. This creates an asymmetric, wobbling magnetosphere
+    that changes dramatically during the planet\u2019s rotation.\r\nInside, Uranus
+    likely has a small rocky core surrounded by a thick layer of icy fluid, rich
+    in water, ammonia, and methane. Unlike Jupiter and Saturn, Uranus does not seem
+    to have metallic hydrogen but may have exotic forms of water under pressure.\r\nRings
+    & Moons\r\nUranus has 13 known rings, composed mostly of dark, narrow bands of
+    dust and ice. These are much dimmer and thinner than Saturn\u2019s and were first
+    discovered in 1977. The rings are divided into two groups: inner narrow rings
+    and outer, fainter dusty ones.\r\nThe planet is orbited by 27 known moons, named
+    after characters from the works of Shakespeare and Alexander Pope, rather than
+    mythological figures. Some notable moons include:\n\r\n- Titania \u2014 the largest
+    moon, with canyons and evidence of past geological activity.\r\n- Oberon \u2014
+    heavily cratered and ancient.\r\n\r- Miranda \u2014 one of the strangest moons
+    in the Solar System, with cliffs, ridges, and shattered terrain that suggests
+    a violent past.\r\n\r\r- Ariel and Umbriel \u2014 geologically distinct moons
+    with varied surface features.\r\n\r\r\nExploration\r\nUranus has only been visited
+    once \u2014 by Voyager 2 in 1986 \u2014 during a brief flyby. This mission provided
+    the first close-up images of the planet and its moons, as well as measurements
+    of its magnetic field, atmosphere, and rings.\r\nSince then, Uranus has remained
+    largely unexplored. However, NASA and ESA are considering future missions to
+    this enigmatic planet to study its interior, moons, magnetosphere, and evolution
+    as an ice giant \u2014 especially as a comparison point to exoplanets with similar
+    compositions."
+  - "Neptune, the eighth and farthest known planet from the Sun, is a deep blue ice
+    giant shrouded in mystery and power. With a diameter of 49 244 km, it is similar
+    in size and composition to Uranus but distinct in its more dynamic atmosphere,
+    higher internal heat, and intense weather systems.\r\nIt orbits the Sun once
+    every 165 Earth years, and each day on Neptune lasts about 16 Earth hours. Though
+    it\u2019s over 4.5 billion kilometers from the Sun, Neptune still exhibits high-speed
+    winds \u2014 the fastest recorded in the Solar System, reaching over 2 100 km/h.
+    Its striking blue color, deeper than Uranus\u2019s, comes from methane absorption
+    of red light and possibly other unknown components.\r\nDiscovered in 1846 through
+    mathematical prediction rather than direct observation, Neptune stands as a triumph
+    of astronomy \u2014 and remains a planet full of surprises.\r\nAtmosphere & Weather\r\nNeptune\u2019s
+    atmosphere is composed primarily of hydrogen, helium, and methane, with layers
+    of icy clouds and gas. Beneath the visible upper clouds lies a deeper layer of
+    water\u2013ammonia\u2013methane slush and complex weather systems, including
+    vortices, storm bands, and bright clouds made of methane ice.\r\nOne of Neptune\u2019s
+    most famous features is the Great Dark Spot, a massive storm system first observed
+    by Voyager 2 in 1989. These dark spots, which come and go, are thought to be
+    gigantic anticyclonic storms, similar in nature to Jupiter\u2019s Great Red Spot
+    but more transient.\r\nDespite receiving only 1/900th the solar energy that Earth
+    gets, Neptune\u2019s atmosphere is surprisingly active, fueled by internal heat
+    that radiates more energy than it receives from the Sun.\r\nMagnetic Field &
+    Internal Structure\r\nNeptune\u2019s magnetic field is tilted at about 47 degrees
+    from its rotational axis and offset from the planet\u2019s center \u2014 a configuration
+    similar to Uranus\u2019s. This produces a chaotic, shifting magnetosphere that
+    interacts with solar winds in complex ways.\r\nInternally, Neptune has a small
+    rocky core, surrounded by layers of icy fluids composed of water, ammonia, and
+    methane. While lacking a solid surface, the planet has a distinct layered structure
+    that includes a mantle of hot dense fluid ices \u2014 likely the source of its
+    strong weather systems.\r\nRings & Moons\r\nNeptune is surrounded by a system
+    of five known rings, all thin and faint, composed of dark, icy particles. These
+    rings are difficult to observe from Earth but were confirmed by Voyager 2 during
+    its flyby.\r\nThe planet has 14 known moons, the largest and most notable being
+    Triton. Triton is unique in several ways:\n\r\n-It orbits Neptune in the opposite
+    direction (retrograde), suggesting it was likely captured from the Kuiper Belt.\r\n\r-It
+    has cryovolcanoes that spew liquid nitrogen, and a young, icy surface with few
+    impact craters.\r\n\r\r-Triton is slowly spiraling inward and may one day break
+    apart or crash into Neptune.\r\n\r\r\nOther moons, like Nereid, Proteus, and
+    Larissa, have irregular shapes and orbits, contributing to Neptune\u2019s reputation
+    as a planet with a chaotic satellite system."
   _gods: 0000000001000000020000000300000004000000050000000600000007000000
   _info: {fileID: 1885783514}
   _name: {fileID: 1148873949}
@@ -12454,10 +12331,10 @@ RectTransform:
   - {fileID: 657450618}
   m_Father: {fileID: 1920506397}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.0000044830717, y: 0.057707995}
-  m_AnchorMax: {x: 0.99999994, y: 0.7418258}
+  m_AnchorMin: {x: 0.0000044830717, y: 0.063994065}
+  m_AnchorMax: {x: 0.99999994, y: 0.7481116}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0.000010967255}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2005845188
 MonoBehaviour:
@@ -12523,7 +12400,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d910946de66856243b01bda2c9025054, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 282e55a8714235349a2b8b60a33e58c6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12755,8 +12632,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 853.11, y: -2119}
-  m_SizeDelta: {x: 655.42, y: 933.76}
+  m_AnchoredPosition: {x: 853.46497, y: -1962.3999}
+  m_SizeDelta: {x: 469.33, y: 709.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2054610515
 MonoBehaviour:
@@ -12778,7 +12655,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 797fa529687f34f46905b8d932f822ef, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 86d71d7572fd17c4da8fd0f07410b54a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12795,81 +12672,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2054610513}
-  m_CullTransparentMesh: 1
---- !u!1 &2076782243
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2076782244}
-  - component: {fileID: 2076782246}
-  - component: {fileID: 2076782245}
-  m_Layer: 5
-  m_Name: Sample
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &2076782244
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2076782243}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2113422528}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2076782245
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2076782243}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.50980395}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 890d5d1a31a28b54e852944221aece37, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &2076782246
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2076782243}
   m_CullTransparentMesh: 1
 --- !u!1 &2093757081
 GameObject:
@@ -13047,8 +12849,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 83156820}
-  - {fileID: 2076782244}
-  - {fileID: 1114024142}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}

@@ -15,76 +15,74 @@ MonoBehaviour:
   types: 1
   name: Venus
   godQuizzes:
-  - question: "Which planet shows a runaway greenhouse effect with surface temps
-      \u2248 465 \xB0C? "
+  - question: 'Which planet has a day longer than its year? '
     _answers:
-    - Mars
-    - 'Venus '
-    - Earth
     - Mercury
-    correctReply: 1
-  - question: "Venus\u2019s atmosphere is composed mainly of: "
-    _answers:
-    - Nitrogen
-    - Oxygen
-    - 'Carbon dioxide '
-    - Methane
+    - Mars
+    - Venus
+    - Jupiter
     correctReply: 2
-  - question: "What is unusual about Venus\u2019s rotation? "
+  - question: "What is the main component of Venus\u2019s atmosphere? "
     _answers:
-    - 'Extremely fast rotation '
-    - Retrograde rotation
-    - No rotation at all
-    - Tidally locked
+    - Oxygen
+    - Methane
+    - Nitrogen
+    - Carbon dioxide
+    correctReply: 3
+  - question: Venus rotates in which direction?
+    _answers:
+    - Retrograde (opposite of Earth)
+    - Same as the Moon
+    - Clockwise like Neptune
+    - "None \u2014 it doesn\u2019t rotate"
+    correctReply: 0
+  - question: What surface features dominate Venus?
+    _answers:
+    - Crater lakes
+    - Frozen oceans
+    - Volcanic plains and domes
+    - Ice ridges
+    correctReply: 2
+  - question: What is the average surface temperature on Venus?
+    _answers:
+    - "100 \xB0C"
+    - "250 \xB0C"
+    - "460 \xB0C"
+    - "\u201350 \xB0C"
+    correctReply: 2
+  - question: "What Soviet lander returned the first color images from Venus\u2019s
+      surface?"
+    _answers:
+    - Luna 9
+    - Venera 13
+    - Soyuz 6
+    - Phobos 2
     correctReply: 1
-  - question: "Which mission mapped Venus\u2019s surface using radar in the 1990s?"
+  - question: Why is Venus hotter than Mercury, despite being farther from the Sun?
     _answers:
-    - Voyager 2
+    - Solar flares hit it more often
+    - Because of its thick atmosphere and greenhouse effect
+    - Due to volcanic activity
+    - "It's not \u2014 Mercury is hotter"
+    correctReply: 1
+  - question: "Which NASA mission used radar to map Venus\u2019s surface?"
+    _answers:
+    - Pioneer
     - Magellan
-    - 'Galileo '
+    - Voyager 2
     - Cassini
     correctReply: 1
-  - question: 'Venus is often visible from Earth as the:'
-    _answers:
-    - Red Planet
-    - Blue Planet
-    - Morning/Evening Star
-    - Ringed Planet
-    correctReply: 2
-  - question: 'The thick clouds on Venus consist mainly of:'
-    _answers:
-    - Water vapor
-    - Sulfuric acid
-    - Methane
-    - Ammonia
-    correctReply: 1
-  - question: "Surface pressure on Venus is roughly how many times Earth\u2019s?"
+  - question: What is the surface pressure on Venus compared to Earth?
     _answers:
     - About the same
-    - "10 \xD7"
-    - "92 \xD7"
-    - "200 \xD7"
+    - Twice as much
+    - 10 times more
+    - 92 times more
+    correctReply: 3
+  - question: "What are \u201Carachnoids\u201D and \u201Ccoronae\u201D on Venus?"
+    _answers:
+    - Atmospheric storms
+    - Impact craters
+    - Volcanic + tectonic surface features
+    - Names of moons
     correctReply: 2
-  - question: Which geological structure is common on Venus and linked to mantle
-      plumes?
-    _answers:
-    - Coronae
-    - Ice volcanoes
-    - Subduction trenches
-    - Sand seas
-    correctReply: 0
-  - question: The proposed balloon habitat layer on Venus sits roughly how high?
-    _answers:
-    - "0\u20135 km"
-    - "20\u201330 km"
-    - "50\u201360 km"
-    - 100 km
-    correctReply: 2
-  - question: "Which planned NASA mission will drop a probe through Venus\u2019s
-      atmosphere?"
-    _answers:
-    - Juno
-    - DAVINCI
-    - New Horizons II
-    - Europa Clipper
-    correctReply: 1

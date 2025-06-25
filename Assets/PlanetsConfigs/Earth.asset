@@ -15,77 +15,73 @@ MonoBehaviour:
   types: 2
   name: Earth
   godQuizzes:
-  - question: "Which planet is known as the \u201CBlue Planet\u201D due to its abundant
-      water?"
+  - question: Which planet is the only one known to support life?
     _answers:
-    - Mars
-    - 'Earth '
-    - Neptune
     - Venus
+    - Earth
+    - Mars
+    - Europa
     correctReply: 1
-  - question: "About what percentage of Earth\u2019s surface is covered by water?"
+  - question: "What percentage of Earth\u2019s surface is covered by water?"
     _answers:
-    - 30%
-    - 50%
-    - 71%
-    - 90%
+    - 25 %
+    - 50 %
+    - 71 %
+    - 90 %
     correctReply: 2
-  - question: "The primary gas in Earth\u2019s atmosphere is:"
+  - question: "What process drives Earth\u2019s moving tectonic plates?"
+    _answers:
+    - Gravity from the Moon
+    - Solar radiation
+    - Mantle convection
+    - Core freezing
+    correctReply: 2
+  - question: "What is the name of Earth\u2019s natural satellite?"
+    _answers:
+    - Deimos
+    - Titan
+    - Luna (The Moon)
+    - Io
+    correctReply: 2
+  - question: "Which gas makes up most of Earth\u2019s atmosphere?"
     _answers:
     - Oxygen
-    - 'Carbon dioxide '
-    - 'Nitrogen '
-    - Helium
+    - Carbon dioxide
+    - Nitrogen
+    - Argon
     correctReply: 2
-  - question: "Earth is located in the Sun\u2019s:"
+  - question: What helps shield Earth from solar and cosmic radiation?
     _answers:
-    - Habitable zone
-    - Frost line
-    - Kuiper belt
-    - Oort cloud
+    - Ozone layer only
+    - Clouds
+    - Magnetic field
+    - Greenhouse gases
+    correctReply: 2
+  - question: Why is the ozone layer important?
+    _answers:
+    - Helps form rain
+    - Reflects heat
+    - Absorbs ultraviolet light
+    - '  Generates winds '
+    correctReply: 2
+  - question: "What is one major concern facing Earth\u2019s climate today?"
+    _answers:
+    - Human-caused climate change
+    - Shrinking oxygen levels
+    - Excess moonlight
+    - Decreasing magnetic field
     correctReply: 0
-  - question: What shields Earth from most harmful solar and cosmic radiation?
+  - question: What famous image shows Earth from space as a small pale dot?
     _answers:
-    - Thick crust
-    - Magnetosphere
-    - Oceans
-    - The Moon
-    correctReply: 1
-  - question: "Which process continually reshapes Earth\u2019s surface over millions
-      of years?"
+    - The Pale Blue Dot
+    - The Sun Speck
+    - The Cosmic Pearl
+    - The Ozone Halo
+    correctReply: 0
+  - question: What is the main cause of tides on Earth?
     _answers:
-    - 'Erosion only '
-    - Plate tectonics
-    - Asteroid impacts only
-    - Volcanic eruptions only
-    correctReply: 1
-  - question: 'The cycle describing continuous movement of water between sea, air
-      and land is the:'
-    _answers:
-    - Rock cycle
-    - Nitrogen cycle
-    - Water (hydrologic) cycle
-    - Carbon cycle
-    correctReply: 2
-  - question: "Earth\u2019s ideal distance from the Sun allows for the presence of:"
-    _answers:
-    - Extreme cold only
-    - Liquid water
-    - A completely frozen surface
-    - A runaway greenhouse effect
-    correctReply: 1
-  - question: "Which of these is a major factor in sustaining Earth\u2019s diverse
-      ecosystems?"
-    _answers:
-    - Single climate zone
-    - Varied climates and biomes
-    - Lack of water circulation
-    - Vast deserts only
-    correctReply: 1
-  - question: 'Fossil records on Earth provide evidence for: '
-    _answers:
-    - Static environment since formation
-    - Evolution of life over billions of years
-    - Instant creation of all species
-    - Only recent geological events
-    correctReply: 1
+    - Solar flares
+    - Wind patterns
+    - Earthquakes
+    - Gravitational pull from the Moon
+    correctReply: 3

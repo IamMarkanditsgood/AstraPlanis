@@ -22,66 +22,67 @@ MonoBehaviour:
     - Saturn
     - Jupiter
     correctReply: 1
-  - question: "Neptune\u2019s blue color is mainly caused by: "
+  - question: "What causes Neptune\u2019s blue color?"
     _answers:
     - Water vapor
-    - Methane absorbing red light
-    - Its rings
-    - Copper deposits
-    correctReply: 1
-  - question: "Notable about Neptune\u2019s winds:"
+    - Dust particles
+    - Methane and other absorbers
+    - Sulfur in the air
+    correctReply: 2
+  - question: How long is a year on Neptune?
     _answers:
-    - Very slow
-    - Fastest in the Solar System
-    - "Similar to Earth\u2019s"
-    - Only at poles
-    correctReply: 1
-  - question: 'Neptune was discovered by:'
+    - 29 Earth years
+    - 84 Earth years
+    - 165 Earth years
+    - 200 Earth years
+    correctReply: 2
+  - question: "What are Neptune\u2019s dark spots?"
     _answers:
-    - Direct telescope scan
-    - "Calculations of Uranus\u2019s orbital perturbations"
-    - Ancient astronomers
-    - Isaac Newton
-    correctReply: 1
-  - question: Which spacecraft provided the first close images of Neptune?
+    - Impact craters
+    - Shadow regions
+    - Giant storms
+    - Lakes of ice
+    correctReply: 2
+  - question: Which spacecraft visited Neptune?
     _answers:
     - Cassini
     - 'Voyager 2 '
     - Galileo
     - 'New Horizons '
     correctReply: 1
-  - question: 'Triton is unique because it:'
+  - question: "What is the name of Neptune\u2019s largest moon?"
     _answers:
-    - Orbits prograde and is volcanic
-    - Is retrograde with nitrogen geysers
-    - Has no atmosphere
-    - Is larger than Mars
-    correctReply: 1
-  - question: "Neptune\u2019s atmosphere is mainly:"
+    - Titan
+    - Europa
+    - Triton
+    - Ganymede
+    correctReply: 2
+  - question: "Why is Triton\u2019s orbit unique?"
     _answers:
-    - Carbon dioxide and nitrogen
-    - Hydrogen, helium, and methane
-    - 'Oxygen and water vapor '
-    - 'Sulfur compounds '
-    correctReply: 1
-  - question: 'Dynamic weather on Neptune is characterised by:'
+    - "It\u2019s perfectly circular"
+    - "It\u2019s vertical"
+    - "It\u2019s retrograde (opposite direction)"
+    - "It\u2019s unstable"
+    correctReply: 2
+  - question: How many moons does Neptune have (as of 2025)?
     _answers:
-    - Calm conditions only
-    - Massive storms and transient features
-    - No weather at all
-    - Dust devils only
+    - 5
+    - 14
+    - 27
+    - 60
     correctReply: 1
-  - question: "Neptune\u2019s internal structure likely includes:"
+  - question: What type of volcanoes exist on Triton?
     _answers:
-    - Thick rocky crust only
-    - Rocky core + icy mantle
-    - Pure hydrogen throughout
-    - Layer of pure iron oxide
+    - Lava volcanoes
+    - Cryovolcanoes
+    - Gas geysers
+    - Magma jets
     correctReply: 1
-  - question: 'Planned Trident mission aims primarily at:'
+  - question: "Why is Neptune\u2019s atmosphere so active despite its distance from
+      the Sun?"
     _answers:
-    - "Mapping Neptune\u2019s rings"
-    - Flying by Triton to study plumes
-    - "Landing on Neptune\u2019s surface"
-    - Returning samples from rings
-    correctReply: 1
+    - It reflects sunlight better
+    - It has a strong magnetic field
+    - It emits more heat than it receives
+    - It receives radiation from other planets
+    correctReply: 2

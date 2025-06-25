@@ -27,7 +27,6 @@ public class Home : BasicScreen
 
     private void Start()
     {
-        PlayerPrefs.DeleteAll();
         _currentGod = 0;
 
         _profileButton.onClick.AddListener(ProfileButton);

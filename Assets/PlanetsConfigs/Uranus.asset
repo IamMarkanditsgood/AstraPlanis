@@ -15,73 +15,73 @@ MonoBehaviour:
   types: 6
   name: Uranus
   godQuizzes:
-  - question: "Which planet rolls on its side due to a ~98\xB0 tilt?"
+  - question: What color is Uranus primarily?
     _answers:
-    - Saturn
-    - Uranus
-    - Neptune
-    - Jupiter
-    correctReply: 1
-  - question: "Uranus\u2019s blue-green hue comes mainly from:"
-    _answers:
-    - 'Water vapor '
-    - Ammonia
-    - Methane in the atmosphere
-    - 'Iron oxide '
+    - Red
+    - Yellow
+    - Blue-green
+    - White
     correctReply: 2
-  - question: 'Uranus is classified as an:'
+  - question: "What causes Uranus\u2019s unusual color?"
     _answers:
-    - Gas giant with thick clouds
-    - 'Ice giant with an icy mantle '
-    - Rocky terrestrial planet
-    - Dwarf planet
-    correctReply: 1
-  - question: 'Voyager 2 flew past Uranus in:'
+    - Iron deposits
+    - Carbon dust
+    - Methane in the atmosphere
+    - Sulfur clouds
+    correctReply: 2
+  - question: "What is unique about Uranus\u2019s rotation?"
     _answers:
-    - 1979
-    - 1986
-    - 1995
-    - 2004
-    correctReply: 1
-  - question: "Uranus\u2019s ring particles are: "
-    _answers:
-    - Bright and icy
-    - Dark and micron-sized
-    - Pure iron filings
-    - Made of basalt rock only
-    correctReply: 1
-  - question: 'Each Uranus pole experiences continuous daylight for roughly:'
-    _answers:
-    - 1 year
-    - 5 years
-    - 21 years
-    - 42 years
+    - It spins backward
+    - "It doesn\u2019t rotate"
+    - It rotates vertically
+    - It rotates on its side
     correctReply: 3
-  - question: 'The moon with 20-km-high cliffs is:'
+  - question: How many moons does Uranus have (as of 2025)?
     _answers:
-    - Ariel
+    - 4
+    - 14
+    - 27
+    - 60
+    correctReply: 2
+  - question: What spacecraft flew by Uranus in 1986?
+    _answers:
+    - Cassini
+    - Juno
+    - Voyager 2
+    - Galileo
+    correctReply: 2
+  - question: "What are Uranus\u2019s rings made of?"
+    _answers:
+    - Fire and gas
+    - Water and hydrogen
+    - Dark dust and ice particles
+    - 'Rocky magma '
+    correctReply: 2
+  - question: "What\u2019s the name of Uranus\u2019s largest moon?"
+    _answers:
     - Miranda
     - Titania
+    - Ariel
     - Oberon
     correctReply: 1
-  - question: "Uranus\u2019s magnetic field is unusual because it is:"
+  - question: How long is one Uranian year?
     _answers:
-    - Perfectly centred
-    - Offset and highly tilted
-    - Non-existent
-    - "Stronger than Jupiter\u2019s"
+    - 12 Earth years
+    - 29 Earth years
+    - 84 Earth years
+    - 165 Earth years
+    correctReply: 2
+  - question: Which Uranus moon has a chaotic, patchwork-like surface?
+    _answers:
+    - Umbriel
+    - Miranda
+    - Titania
+    - Juliet
     correctReply: 1
-  - question: 'Proposed UOP mission would carry:'
+  - question: What classification do scientists give to Uranus?
     _answers:
-    - A lander to Miranda only
-    - An orbiter and atmospheric probe
-    - "A rover for Uranus\u2019s surface"
-    - 'Space elevator prototypes '
-    correctReply: 1
-  - question: 'Voyager 2 found wind speeds on Uranus up to:'
-    _answers:
-    - "100 km h-\xB9"
-    - "300 km h-\xB9"
-    - "600 km h-\xB9"
-    - "900 km h-\xB9"
-    correctReply: 3
+    - Gas dwarf
+    - Terrestrial planet
+    - Ice giant
+    - Asteroid belt member
+    correctReply: 2

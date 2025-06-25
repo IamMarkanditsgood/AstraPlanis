@@ -15,74 +15,74 @@ MonoBehaviour:
   types: 3
   name: Mars
   godQuizzes:
-  - question: 'What is the common nickname for Mars? '
+  - question: "Why is Mars called the \u201CRed Planet\u201D?"
     _answers:
-    - The Blue Planet
-    - The Red Planet
-    - The Ringed Planet
-    - 'The Ice Giant '
-    correctReply: 1
-  - question: 'Which Martian volcano is the largest in the Solar System? '
+    - 'Due to its volcanic eruptions '
+    - Because of its distance from the Sun
+    - Because of its dusty atmosphere
+    - Due to iron oxide on its surface
+    correctReply: 3
+  - question: What is the tallest mountain in the Solar System?
     _answers:
-    - 'Mount Etna '
+    - Mount Everest
     - Olympus Mons
     - Mauna Loa
-    - Arsia Mons
+    - Valles Peak
     correctReply: 1
-  - question: What surface feature provides strong evidence Mars once had flowing
-      water?
+  - question: "Which feature on Mars is larger than Earth\u2019s Grand Canyon?"
     _answers:
-    - Active rainfall
-    - 'Ancient river valleys and lake beds '
-    - Thick, humid atmosphere
-    - Blue oceans observable today
-    correctReply: 1
-  - question: "Mars\u2019s atmosphere is composed mainly of which gas?"
-    _answers:
-    - Nitrogen
-    - Oxygen
-    - 'Carbon dioxide '
-    - Hydrogen
-    correctReply: 2
-  - question: Which canyon on Mars is one of the largest in the Solar System?
-    _answers:
-    - Grand Canyon
+    - Gale Crater
     - Valles Marineris
-    - Death Valley
-    - Yarlung Tsangpo Canyon
+    - Argyre Basin
+    - Elysium Valley
     correctReply: 1
-  - question: 'How much longer is a Martian day (sol) compared to an Earth day? '
+  - question: "What is the main component of Mars\u2019s atmosphere?"
     _answers:
-    - '10 minutes shorter '
-    - About the same
-    - 40 minutes longer
-    - 2 hours longer
+    - Oxygen
+    - Nitrogen
+    - Methane
+    - Carbon dioxide
+    correctReply: 3
+  - question: How many moons does Mars have?
+    _answers:
+    - 1
+    - 2
+    - 3
+    - 0
+    correctReply: 1
+  - question: Which Mars rover collected the first samples for possible return to
+      Earth?
+    _answers:
+    - Spirit
+    - Opportunity
+    - Perseverance
+    - Pathfinder
     correctReply: 2
-  - question: "Mars\u2019s reddish appearance is primarily due to: "
+  - question: Which planet has dust storms that can cover the entire globe?
     _answers:
-    - 'Red vegetation '
-    - Iron oxide (rust)
-    - 'Volcanic ash '
-    - Dust storms only
+    - Venus
+    - Mars
+    - Jupiter
+    - Saturn
     correctReply: 1
-  - question: "Mars\u2019s polar caps contain:"
+  - question: What are Phobos and Deimos believed to be?
     _answers:
-    - Pure water only
-    - Water ice and carbon dioxide ice
-    - Only carbon dioxide ice
-    - 'No ice at all '
+    - Formed moons from Martian material
+    - Captured asteroids
+    - Ice chunks
+    - 'Small comets '
     correctReply: 1
-  - question: 'Which type of mission has most advanced our understanding of Mars? '
+  - question: What groundbreaking aerial vehicle flew on Mars?
     _answers:
-    - 'Deep-sea missions '
-    - Robotic landers and rovers
-    - Manned missions (so far)
-    - 'Balloon flights '
-    correctReply: 1
-  - question: 'Mars remains a key target in the search for:'
+    - Red Eagle drone
+    - Phoenix balloon
+    - Ingenuity helicopter
+    - Orbiter glider
+    correctReply: 2
+  - question: What do recurring slope lineae on Mars suggest?
     _answers:
-    - New fossil fuels
-    - Past or present extraterrestrial life
-    - Modern human civilizations
-    - New minerals for construction
-    correctReply: 1
+    - Alien tracks
+    - Lava flows
+    - Wind erosion
+    - Possible seasonal briny water
+    correctReply: 3
